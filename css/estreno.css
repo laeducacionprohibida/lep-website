@@ -1,0 +1,519 @@
+#contenido-pelicula {
+float:left;
+max-width: 576px;
+position:relative;
+    margin-right: 20px;
+}
+
+#contenido-sidebar {
+float:left;
+width: 300px;
+}
+
+
+#contenido-pelicula-player {
+	background: black;
+	float: left;
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+	width: 100%;
+
+}
+#contenido-pelicula-player iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#contenido-comenta {
+	float: left;
+	width: 300px;
+	background: #1A3A06;
+	padding: 10px;
+	box-shadow: 0 0 13px #0C0C0C;
+	margin-bottom: 20px;
+}
+
+#contenido-comenta h2,h3{
+	margin: 0pt;
+	padding: 1em 0 0.5em;
+}
+
+#contenido-comenta h3 b, #contenido-comenta h3 a{
+	color:white;
+}
+
+#contenido-encuesta {
+	padding: 5px;
+	font-size: 17pt;
+	text-align: center;
+	background: #44aa00;
+	box-shadow: 0 0 5px #66ff00;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	width: 300px;
+	text-decoration: none;
+	margin:-5px 7px 13px;
+	float: left;
+	border: 1px solid #66ff00;
+/*
+	text-shadow: 1px 1px 1px #000000;
+*/
+}
+
+#contenido-encuesta:hover {
+	border: 1px solid #c9ff6e;
+	box-shadow: 0 0 9px #c9ff6e;
+	background: #66ff00;
+}
+
+#contenido-proyecciones {
+	float: left;
+	width: 300px;
+	background: #0e2400;
+	padding: 10px;
+	box-shadow: 0 0 13px #0C0C0C;
+}
+
+#contenido-proyecciones a{
+	text-decoration: none !important;
+		text-shadow: none !important;
+}
+#contenido-proyecciones h2{
+	color: white;
+    height: 30px;
+    margin: 0 0 10px;
+    padding-left: 32px;
+}
+
+
+#contenido-proyecciones h4{
+	margin: 4px;
+	width: auto !important;
+	float:none !important;
+}
+
+#contenido-proyecciones-mapa {
+	padding: 5px;
+	border: 1px #1a1a1a solid;
+	background: black;
+}
+
+#contenido-proyecciones-proximas ul li {
+	background: url("../img/vineta-3.png") no-repeat scroll left center transparent;
+    border-top: 1px dotted #CCCCCC;
+    padding: 5px 0 5px 25px;
+	font-size: 10pt;
+}
+
+#contenido-proyecciones-proximas {
+	display: none;
+}
+
+#contenido-proyecciones-mas {
+	font-size: 11pt;
+}
+
+#contenido-proyecciones-propia {
+	padding: 5px;
+	font-size: 17pt;
+	text-align: center;
+	background: #44aa00;
+	box-shadow: 0 0 5px #66ff00;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: black;
+	width: 270px;
+	text-decoration: none;
+	margin: 10px;
+	float: left;
+	border: 1px solid #66ff00;
+/*
+	text-shadow: 1px 1px 1px #000000;
+*/
+}
+
+#contenido-proyecciones-propia:hover {
+	border: 1px solid #c9ff6e;
+	box-shadow: 0 0 9px #c9ff6e;
+	background: #66ff00;
+}
+
+#salida {
+width: 600px;
+height: 10px;
+float:left;
+
+}
+
+#cab_texto {
+text-shadow: 1px 1px 1px #000;
+}
+
+#cab_texto a {
+color: white;
+}
+
+#estreno {
+	background: url("../img/estreno-reevo.png") no-repeat left center  transparent;
+	width: 250px;
+	height: 25px;
+/*
+	display: block;
+*/
+	float:left;
+	margin: 55px 0 0;
+	padding-left: 30px;
+	padding-top: 55px;
+	font-family: 'Yanone Kaffeesatz',sans-serif;
+	font-size: 13pt;
+	opacity: 0;
+	position:relative;
+	left: -100px;
+	color: #1a1a1a;
+}
+
+#icon-proyecciones {
+	background: url("../img/estreno/proyecciones.png") no-repeat left center  transparent;
+}
+
+.tabbed_content {
+	width: 576px;
+	/* margin-top: -2px; */
+	position: relative;
+	float: left;
+}}
+
+.tabs {
+	height: 51px;
+	position: relative;
+	float:left;
+	background: #424242;
+	border: 2px solid black;
+}
+
+.tabs .moving_bg {
+	/*padding: 15px;*/
+	background-color:#44aa00;
+	position: absolute;
+	width: 50%;
+	z-index: 190;
+	left: 0;
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	display:none;
+	height: 50px;
+}
+
+.tabs .tab_item {
+	display: block;
+	float: left;
+	padding: 7px 0px 7px;
+	width: 50%;
+	color: #ffffff;
+	text-align: center;
+	z-index: 200;
+	position: relative;
+	cursor: pointer;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	border: 2px solid black;
+	font-size: 20pt;
+	text-transform: uppercase;
+	box-sizing: border-box;
+}
+
+.tabbed_content .slide_content {
+	overflow: hidden;
+	background-color: #1a1a1a;
+	/* padding: 20px 0 20px 20px; */
+	position: relative;
+	max-width: 576px;
+	float: left;
+	display: none;
+	border: 2px black solid;
+	border-top: 0px black solid;
+}
+
+.tabslider {
+	width: 5000px;
+	float: left;
+	position: relative;
+}
+
+.tabslider ul {
+	float: left;
+	margin: 0px;
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-right: 40px;
+	width: 190px;
+}
+
+.tabslider ul a {
+
+
+}
+
+.tabslider ul li {
+	padding-bottom: 7px;
+
+}
+
+.tab-content {
+	float: left;
+	max-width: 576px;
+	margin: 0;
+	padding: 0px;
+}
+
+.tab-content h3{
+	margin: 0pt;
+	margin-bottom: 10px;
+	font-family: 'Oxygen',  verdana, tahoma;
+	text-transform: uppercase;
+	color: white;
+	font-size: 10pt;
+	width: 100%;
+	min-width: 232px;
+}
+
+.tab-content-col {
+	width: 50%;
+	border-right: 1px dotted #696969;
+	float:left;
+	color: #ddd;
+	font-size: 10pt;
+	text-shadow: 1px 1px 1px #000000;
+	box-sizing: border-box;
+  padding: 5px 24px;
+}
+
+.tab-content-col a {
+	text-decoration: none;
+
+}
+
+.no-disponible, .no-disponible h3 {
+color: #424242 !important;
+}
+
+.tab-content-col small{
+color: dark-grey;
+}
+
+.insertar-caja {
+width: 250px;
+height: 100px;
+}
+
+#cboxLoadedContent {
+background: #ccc !important;
+}
+
+#tab-descargar {
+	background: url("../img/estreno/tab-descargar.png")  no-repeat scroll 15px 13px transparent;
+}
+
+#tab-difundir {
+	background: url("../img/estreno/tab-difunde.png")  no-repeat scroll 15px 13px transparent;
+}
+
+#tab-colaborar {
+	background: url("../img/estreno/tab-colaborar.png")  no-repeat scroll 15px 13px transparent;
+}
+
+#link-fb {
+	background: url("../img/link-fb.png")  no-repeat scroll left center transparent;
+	padding: 1px 0 1px 12px;
+	margin-bottom: 2px;
+}
+
+#link-tw {
+	background: url("../img/link-tw.png")  no-repeat scroll left center transparent;
+	padding: 1px 0 1px 12px;
+	margin-bottom: 2px;
+}
+
+#link-ic {
+	background: url("../img/link-ic.png")  no-repeat scroll left center transparent;
+	padding: 1px 0 1px 12px;
+	margin-bottom: 2px;
+}
+
+#link-gp {
+	background: url("../img/link-gp.png")  no-repeat scroll left center transparent;
+	padding: 1px 0 1px 12px;
+	margin-bottom: 2px;
+}
+
+.col-bloque {
+	float: left;
+	display: block;
+	font-size: 10pt;
+}
+
+.col-bloque h3 {
+	margin: 0pt;
+	float: left;
+	width: 100%;
+	font-size: 15.5pt;
+	margin-top: 10px;
+}
+
+.col-bloque ul {
+	float:left;
+	padding-left: 10px;
+	margin-bottom: 15px;
+}
+
+
+.lista-descargas a {
+	font-size: 10pt;
+}
+
+#descarga-hd {
+	background: url("../img/iconos/hd.png") no-repeat scroll 0 7px transparent;
+    padding-left: 32px;
+}
+
+#descarga-sd {
+	background: url("../img/iconos/sd.png") no-repeat scroll 0 7px transparent;
+    padding-left: 32px;
+}
+
+#descarga-movil {
+	background: url("../img/iconos/mv.png") no-repeat scroll 0 7px transparent;
+    padding-left: 32px;
+}
+
+
+/*
+KILL AMARA
+*/
+
+div .unisubs-dropdown, .unisubs-dropdown {
+	min-width: 290px !important;
+	width: 290px !important;
+}
+
+span .unisubs-tabTextShare, span.unisubs-tabTextShare, .unisubs-tabTextShare, .unisubs-tabTextShare a, .unisubs-videoTab a, .unisubs-videoTab a {
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+}
+
+.unisubs-dropdown .unisubs-actions {
+	display: none !important;
+}
+
+.unisubs-subtitleMeLink {
+	visibility: visible !important;
+}
+
+.unisubs-videoTab, a.unisubs-subtitleMeLink, .unisubs-videoTab a.unisubs-subtitleMeLink {
+	opacity: 1 !important;
+}
+
+
+.enlace-peli a:visited {
+		text-decoration:blink !important;
+		color: red;
+}
+
+.twtr-widget {
+	float:left;
+}
+
+.twtr-hd, .twtr-ft {
+	display:none;
+}
+
+
+/*
+CAJA DE ENTREVISTADOS
+*/
+
+#entrevistados {
+	float: left;
+	width: 565px;
+	padding: 8px 5px;
+	background: #1a1a1a;
+	border: 2px solid #000000;
+	display: block;
+}
+
+#caja-entrevistados {
+	float: left;
+	width: 565px;
+	padding: 8px 5px;
+	background: #1a1a1a;
+	border: 2px solid #000000;
+	display: block;
+}
+
+.entrevistados-foto {
+	float: left;
+	padding: 3px;
+	border: 1px solid #44aa00;
+	width: 90px;
+	height: 90px;
+	display: block;
+}
+
+.entrevistados-datos {
+	float: right;
+	width: 455px;
+	padding-left: 10px;
+
+}
+
+.entrevistados-datos h2{
+	float: left;
+	font-size: 30pt;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	margin: 0pt;
+	padding-bottom: 3px;
+	text-transform: uppersize;
+	color: white;
+}
+
+.entrevistados-lugar {
+	color: white;
+	float: left;
+	text-transform: uppersize;
+	font-size: 11pt;
+}
+
+.entrevistados-bio {
+	color: #ccc;
+	float: left;
+	font-size: 9pt;
+	padding: 4px 0;
+}
+
+.entrevistados-link {
+	color: green;
+	float: right;
+	font-size: 11pt;
+
+}
+
+#entrevistados-titulo {
+    background: none repeat scroll 0 0 #0D0D0D;
+    clear: both;
+    color: white;
+    display: block;
+    float: left;
+    font-family: 'Oxygen';
+    font-size: 8pt;
+    margin-left: 35px;
+    padding: 6px 10px 3px;
+    position: relative;
+    text-transform: uppercase;
+    border-radius: 6px 6px 0 0;
+    color: #aaa;
+}

@@ -1,0 +1,436 @@
+/* ELEMENTOS PORTADA */
+
+.lista-convocatorias li {
+background:#1a1a1a;
+border: #3b8b05 1px dotted;
+font-size: 11pt;
+text-align: center;
+margin-bottom: 7px;
+padding: 5px;
+font-weight: bold;
+}
+
+.lista-convocatorias li:hover {
+background:#0d0d0d;
+border: #66FF00 1px dotted;
+
+}
+
+.lista-convocatorias li a, .lista-convocatorias li a:visited{
+color:white;
+text-decoration:none;
+}
+
+
+#TwitterCounter{
+margin:0pt;
+padding: 0pt;
+}
+#btn-twitter {
+width:271px;
+height:59px;
+background: url(../img/boton_twitter.png) no-repeat;
+float:left;
+margin-top:1em;
+}
+
+#btn-video {
+width:310px;
+height:70px;
+background: url(../img/boton_video.png) no-repeat;
+float:left;
+margin-left:-21px;
+margin-bottom: 1em;
+}
+
+#btn-video:hover {
+background: url(../img/boton_video-2.png) no-repeat;
+}
+
+
+#btn-links {
+width:310px;
+height:70px;
+background: url(/wp-content/uploads/2011/03/boton_links.png) no-repeat;
+float:left;
+margin-left:-21px;
+margin-bottom: 1em;
+}
+
+#btn-links:hover {
+background: url(/wp-content/uploads/2011/03/boton_links-2.png) no-repeat;
+}
+
+
+.newsletter {
+text-align:left !important;
+}
+
+.newsletter input {
+width: 150px;
+}
+
+
+
+/* DONACIONES */
+
+.donacion-region {
+float: left;
+width: 200px;
+margin-right:22px;
+
+}
+
+.donacion-region h3{
+width: 200px;
+height: 68px;
+background-color: #433f3c;
+padding: 5px;
+border-bottom: 2px #504b48 solid;
+text-align: center;
+margin:0px;
+font-size:0px!important;
+}
+.donacion-region ul{
+width: 170px;
+margin-left: 15px;
+float: left;
+background: #433f3c;
+border: #504b48 solid;
+border-width: 0px 1px 1px 1px;
+font-size: 85%;
+-moz-border-radius-bottomleft:6px;
+-moz-border-radius-bottomright:6px;
+}
+
+.donacion-region li{
+padding-bottom: 6px;
+padding-left: 7px;
+}
+
+.donacion-region li a {
+color: white;
+}
+
+#region-ar {
+background: url(../img/argentina.png) no-repeat;
+}
+
+#region-al {
+background: url(../img/america.png) no-repeat;
+}
+
+#region-eu {
+background: url(../img/europa.png) no-repeat;
+}
+
+#region-op {
+background: url(../img/otrospaises.png) no-repeat;
+}
+
+#caja-nuevos {
+border-left:8px solid #222222;
+color:#CCCCCC !important;
+float:right;
+font-size:90%;
+margin-right:67px;
+padding-left:18px;
+width:280px;
+}
+
+#caja-nuevos h3{
+border-bottom: 1px dotted #ccc;
+margin-bottom: -10px;
+}
+
+#tern_members {
+color:#ccc !important;
+}
+
+.tern_wp_members_first_name, .tern_wp_members_first_name {
+font-weight: bold !important;
+font-size:110% !important;
+}
+
+.tern_wp_members_user_nicename {
+font-style: italic;
+}
+
+.page-id-94 .tern_members_view, .page-id-94 .tern_members_sort {
+display:none;
+}
+
+.page-id-137 #tern_members{
+margin-top:-18px;
+}
+.page-id-137 .tern_members_view, .page-id-137 .tern_members_sort {
+display:none;
+}
+
+/* SINGLE PROGRESS BAR */
+
+#donacion1 a, #progreso-actual-numero1 a {
+text-decoration: none !important;
+}
+
+.progressBar {
+    height: 27px;
+    position: relative;
+    width: 216px;
+}
+
+.progressBar1 {
+    height: 27px;
+    position: relative;
+    width: 216px;
+}
+
+.progressBar span {
+    background: url("../img/bg_bar-2.gif") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 20px;
+    left: 8px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -8000px;
+    top: 8px;
+    width: 600px;
+}
+
+.progressBar1 span {
+    background: url("../img/bg_bar-2.gif") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 20px;
+    left: 8px;
+    margin-left: 154px;
+    margin-top: 105px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -8000px;
+    top: 8px;
+    width: 365px;
+}
+.progressBar1 em {
+    background: white;
+    display: block;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    width: 365px;
+}
+.progressBar em {
+    background: white;
+    display: block;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    width: 600px;
+}
+#donacion-metodos {
+width: 960px;
+float:left;
+margin-bottom: 2em;
+margin-left: -20px;
+}
+
+
+.caja-donacion {
+background: #bbb;
+width: 100%;
+float: left;
+border: #ccc 1px solid;
+padding: 10px;
+margin-bottom: 20px;
+font-size:90%;
+color: #101010;
+}
+
+.caja-donacion li {
+background:transparent url(../img/vineta-3.png) no-repeat scroll left center;
+padding:5px 0 5px 25px;
+}
+
+#caja-donaciones {
+float:left;
+width: 550px;
+
+}
+
+#caja-wu {
+    background: url("/wp-content/uploads/2011/02/westernunion.png") no-repeat scroll right top;
+background-color: #CCCCCC;
+}
+
+#caja-pp {
+    background: url("/wp-content/uploads/2011/02/paypal.png") no-repeat scroll right top;
+background-color: #CCCCCC;
+}
+
+#caja-dm {
+    background: url("/wp-content/uploads/2011/02/dineromail.png") no-repeat scroll right top;
+background-color: #CCCCCC;
+}
+
+#caja-bancoar {
+    background: url("/wp-content/uploads/2011/02/banco.png") no-repeat scroll right top;
+background-color: #CCCCCC;
+}
+
+#caja-bancoes {
+    background: url("/wp-content/uploads/2011/02/banco.png") no-repeat scroll right top;
+background-color: #CCCCCC;
+}
+
+#caja-nuevos {
+
+}
+
+#dona-arriba {
+clear:right;
+float:left;
+width:960px;
+}
+
+#dona-beneficios {
+float:left;
+padding-right:24px;
+width:633px;
+}
+
+#dona-beneficios ol {
+color:white;
+font-family:Georgia,Times,serif;
+font-size:17pt;
+font-size-adjust:none;
+font-style:italic;
+font-variant:normal;
+font-weight:normal;
+line-height:1em;
+list-style-type:decimal;
+}
+
+#dona-beneficios ol p {
+  font: normal .9em Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#dona-beneficios li {
+margin-bottom: 5px;
+}
+
+#dona-monto {
+width: 200px;
+float:left ;
+clear:right;
+line-height:18px;
+text-align:center;
+width:171px;
+}
+
+#donahora  {
+text-align:center;
+float: left;
+border-top: solid 2px #3c3c3c;
+margin-top:3em;
+text-align:center;
+width:841px;
+}
+
+.dona  {
+font-size:30pt;
+margin:0;
+}
+
+#progreso-actual {
+    -moz-border-radius: 3px 3px 3px 3px;
+    background: none repeat scroll 0 0 #CCCCCC;
+    color: #000000;
+    margin-bottom: 2em;
+    margin-left: 150px;
+    text-align: center;
+    width: 660px;
+    padding-right: 6px;
+    padding-bottom: 8px;
+}
+
+#progreso-actual-numero {
+float: right;
+font-size: 22pt;
+font-family: Georgia,Times,serif;
+color:#1E4702;
+}
+
+#progreso-actual-numero1 {
+    color: #1E4702;
+    float: right;
+    font-family: Georgia,Times,serif;
+    font-size: 22pt;
+    margin-right: 7px;
+    margin-top: 116px;
+}
+
+
+
+#btn_twitter2 {
+  float: left;
+    height: 34px;
+    margin-left: 2px;
+    margin-top: 9px;
+    width: 96px;
+background: url(../img/twitter.png) no-repeat;
+}
+
+#btn_certificado {
+  float: left;
+    height: 40px;
+    margin-left: 2px;
+    margin-top: 9px;
+    width: 96px;
+background: url(../img/btn_certificado.png) no-repeat;
+}
+
+#body-visualizador {
+width: 100% !important;
+}
+
+.album-foto {
+	padding: 3px;
+	background: black;
+	border: 1px solid #ccc;
+	margin: 2px;
+	float:left;
+}
+
+.box-derecha {
+	float: right;
+	background: black;
+	border: 1px #ccc solid;
+	padding: 10px;
+	width: 307px;
+}
+
+.box-derecha p {
+	float: left;
+	width: 100%;
+}
+
+.col-3 {
+	float:left;
+    text-align: center;
+    padding: 10px 48px;
+    text-align: center;
+    width: 188px;
+    border-right: 1px dotted #ccc;
+}
+
+.col-3 h4 {
+    font-size: 19pt;
+    margin-bottom: 7px;
+	padding: 0pt;
+	margin-top: 0;
+
+}
+
+.col-3 b {
+	color: white;
+}

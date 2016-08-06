@@ -1,0 +1,91 @@
+/*
+CAJA DE ENTREVISTADOS 
+*/
+
+#caja-entrevistados {
+    background: none repeat scroll 0 0 #1A1A1A;
+    border: 2px solid #000000;
+    display: block;
+    float: left;
+    height: 122px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    padding: 8px 5px;
+    width: 440px;
+}
+
+#caja-entrevistados-mini {
+    background: none repeat scroll 0 0 #1A1A1A;
+    border: 2px solid #000000;
+    display: block;
+    float: left;
+    height: 154px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    padding: 8px 5px;
+    width: 440px;
+}
+
+.entrevistados-foto {
+	float: left;
+	padding: 3px;
+	border: 1px solid #44aa00;
+	width: 90px;
+	height: 90px;
+	display: block;
+}
+
+.entrevistados-datos {
+	float: right;
+	width: 330px;
+	padding-left: 10px;
+	
+}
+
+.entrevistados-datos h2{
+	float: left;
+	font-size: 26pt;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	margin: 0pt;
+	padding-bottom: 3px;
+	text-transform: uppersize;
+	color: white;
+}
+
+.entrevistados-lugar {
+	color: white;
+	float: left;
+	text-transform: uppersize;
+	font-size: 11pt;
+}
+
+.entrevistados-bio {
+	color: #ccc;
+	float: left;
+	font-size: 9pt;
+	padding: 4px 0;
+}
+
+.entrevistados-link {
+	color: green;
+	float: right;
+	font-size: 11pt;
+	
+}
+
+#entrevistados-titulo {
+    background: none repeat scroll 0 0 #0D0D0D;
+    clear: both;
+    color: white;
+    display: block;
+    float: left;
+    font-family: 'Oxygen';
+    font-size: 8pt;
+    margin-left: 35px;
+    padding: 6px 10px 3px;
+    position: relative;
+    text-transform: uppercase;
+    border-radius: 6px 6px 0 0;
+    color: #aaa;
+}

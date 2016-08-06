@@ -1,0 +1,70 @@
+.cont-estrella {
+	background: url(img/fondos/ESTRELLA.png) no-repeat center !important;
+} 
+
+.cont-brujula{
+	background: url("img/fondos/BRUJULA.png") no-repeat scroll 50% 63% transparent !important;
+} 
+
+.cont-camara{
+	background: url(img/fondos/CAMARA.png) no-repeat 4% bottom !important;
+}
+
+.cont-claqueta{
+	background: url(img/fondos/CLAQUETA.png) no-repeat 4% 18% !important;
+}
+
+.cont-compartir{
+	background: url(img/fondos/COMPARTIR.png) no-repeat 97% bottom !important;
+}
+
+.cont-competencia{
+	background: url(img/fondos/COMPETENCIA.png) no-repeat 97% bottom !important;
+}
+
+.cont-creative{
+	background: url(img/fondos/CREATIVE.png) no-repeat center bottom !important;
+}
+
+.cont-donaciones{
+	background: url("img/fondos/donaciones.png") no-repeat scroll 15% 93% transparent !important
+} 
+
+
+
+.cont-grito{
+	background: url(img/fondos/GRITO.png) no-repeat 5% bottom !important;
+}
+
+.cont-arte{
+background: url("img/fondos/ARTE.png") no-repeat scroll 45% 51% transparent !important;
+}
+
+.cont-cc{
+	background: url(img/fondos/CC.png) no-repeat 97% bottom !important;
+}
+
+.cont-comercial{
+	background: url(img/fondos/COMERCIAL.png) no-repeat 67% bottom !important;
+}
+
+.cont-derechos{
+	background: url(img/fondos/DERECHOS.png) no-repeat 45% bottom !important;
+}
+
+.cont-mas{
+	background: url(img/fondos/MAS.png) no-repeat 99% 8% !important;
+}
+
+.cont-pincel{
+	background: url(img/fondos/PINCEL.png) no-repeat 97% 18% !important;
+}
+
+.cont-reto{
+	background: url("img/fondos/RETO.png") no-repeat scroll 97% 6% transparent !important;
+}
+
+.cont-yopuedo{
+	background: url("img/fondos/YOPUEDO.png") no-repeat scroll 92% bottom transparent !important;
+}
+

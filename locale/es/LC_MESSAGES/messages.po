@@ -1,0 +1,240 @@
+# Copyright (C) Reevo (http://reevo.org)
+# This file is distributed under the Affero GPL v3 License.
+# Franco Iacomella <franco@reevo.org>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-28 12:51-0300\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:31 index.php:66
+msgid "Descargar"
+msgstr "Descargar"
+
+#: index.php:34
+msgid "Colaborar"
+msgstr "Colaborar"
+
+#: index.php:45
+msgid "Película"
+msgstr "Película"
+
+#: index.php:47
+msgid "Definición estándar- SD"
+msgstr "Definición estándar- SD"
+
+#: index.php:48
+msgid "Versión móvil"
+msgstr "Versión móvil"
+
+#: index.php:49
+msgid "Alta definición - HD"
+msgstr "Alta definición - HD"
+
+#: index.php:53
+msgid "Mas opciones"
+msgstr "Mas opciones"
+
+#: index.php:54
+msgid "Subtítulos"
+msgstr "Subtítulos"
+
+#: index.php:59
+msgid "Trailer"
+msgstr "Trailer"
+
+#: index.php:60
+msgid "Ver Online"
+msgstr "Ver Online"
+
+#: index.php:76
+msgid "Hosting"
+msgstr "Hosting"
+
+#: index.php:77
+msgid ""
+"<p>Puedes colaborar alojando copias de las diferentes versiones de la "
+"película en tu servidor web. Esto nos permitirá contar con mas opciones "
+"cuando alguien quiera descargar la película. <a href=\"/?p=contacto"
+"\">Contáctanos...</a></p>"
+msgstr ""
+"<p>Puedes colaborar alojando copias de las diferentes versiones de la "
+"película en tu servidor web. Esto nos permitirá contar con mas opciones "
+"cuando alguien quiera descargar la película. <a href=\"/?p=contacto"
+"\">Contáctanos...</a></p>"
+
+#: index.php:81
+msgid "Aporte económico"
+msgstr "Aporte económico"
+
+#: index.php:82
+msgid ""
+"<p>Hemos terminado la película y ya está al alcance de todo el mundo sin "
+"barreras económicas. Tenemos otros proyectos en marcha, como <a target="
+"\"_blank\" href=\"http://reevo.org\">Reevo</a>, la red de educación "
+"alternativa mas grande a Iberoamérica. <b>Puedes apoyarnos <a href=\"https://"
+"donar.reevo.org/form.php?donar=1\">haciendote miembro o haciendo una "
+"donación</a></b>."
+msgstr ""
+"<p>Hemos terminado la película y ya está al alcance de todo el mundo sin "
+"barreras económicas. Tenemos otros proyectos en marcha, como <a target="
+"\"_blank\" href=\"http://reevo.org\">Reevo</a>, la red de educación "
+"alternativa mas grande a Iberoamérica. <b>Puedes apoyarnos <a href=\"https://"
+"donar.reevo.org/form.php?donar=1\">haciendote miembro o haciendo una "
+"donación</a></b>."
+
+#: index.php:94
+msgid ""
+"Más de <a href=\"/?p=entrevistas\">90 entrevistas</a> a educadores en un "
+"recorrido por 8 países de Iberoamérica visitando <a href=\"/?p=experiencias"
+"\">45 experiencias educativas</a>."
+msgstr ""
+"Más de <a href=\"/?p=entrevistas\">90 entrevistas</a> a educadores en un "
+"recorrido por 8 países de Iberoamérica visitando <a href=\"/?p=experiencias"
+"\">45 experiencias educativas</a>."
+
+#: index.php:96
+msgid ""
+"Un proyecto <a href=\"/?p=financiacion\">financiado colectivamente</a> por "
+"704 coproductores a través de internet."
+msgstr ""
+"Un proyecto <a href=\"/?p=financiacion\">financiado colectivamente</a> por "
+"704 coproductores a través de internet."
+
+#: index.php:98
+msgid ""
+"Una producción de <a href=\"/?p=legales\">distribución libre</a>, publicada "
+"originalmente en español con más de 900 proyecciones independientes</a> y "
+"más de 12.000.000 de <a href=\"http://youtu.be/-1Y9OqSJKCc\">reproducciones</"
+"a> en la red."
+msgstr ""
+"Una producción de <a href=\"/?p=legales\">distribución libre</a>, publicada "
+"originalmente en español con más de 900 proyecciones independientes</a> y "
+"más de 12.000.000 de <a href=\"http://youtu.be/-1Y9OqSJKCc\">reproducciones</"
+"a> en la red."
+
+#: index.php:100
+msgid ""
+"Más que una película documental, <a href=\"/?p=pelicula\">La Educación "
+"Prohibida</a> es un obra abierta pensada para la <a href=\"http://www.reevo."
+"org/\">transformación social</a>."
+msgstr ""
+"Más que una película documental, <a href=\"/?p=pelicula\">La Educación "
+"Prohibida</a> es un obra abierta pensada para la <a href=\"http://www.reevo."
+"org/\">transformación social</a>."
+
+#: index.php:124
+msgid "titulo-"
+msgstr "titulo-"
+
+#: tpl/footer.php:9
+msgid ""
+"Copyleft 2009-2016 - La Educación Prohibida |<b><a href=\"/?p=contacto\">"
+"¿Quieres contactarnos?</a>"
+msgstr ""
+"Copyleft 2009-2016 - La Educación Prohibida |<b><a href=\"/?p=contacto\">"
+"¿Quieres contactarnos?</a>"
+
+#: tpl/footer.php:10
+msgid ""
+"Se permite y alienta la copia, modificación y redistribución de todos los "
+"contenidos. <a href=\"/legales.php\">Mas información..."
+msgstr ""
+"Se permite y alienta la copia, modificación y redistribución de todos los "
+"contenidos. <a href=\"/legales.php\">Mas información..."
+
+#: tpl/footer.php:15
+msgid "Producción"
+msgstr "Producción"
+
+#: tpl/footer.php:17
+msgid "Reevo - Red de Educación Alternativa"
+msgstr "Reevo - Red de Educación Alternativa"
+
+#: tpl/footer.php:21
+msgid "Coproducción Internacional"
+msgstr "Coproducción Internacional"
+
+#: tpl/header.php:5
+msgid "Siguenos en Twitter"
+msgstr "Siguenos en Twitter"
+
+#: tpl/header.php:6
+msgid "Siguenos en Facebook"
+msgstr "Siguenos en Facebook"
+
+#: tpl/head.php:6
+msgid ""
+"La Educación Prohibida | Un proyecto audiovisual para transformar la "
+"educación"
+msgstr ""
+"La Educación Prohibida | Un proyecto audiovisual para transformar la "
+"educación"
+
+#: tpl/head.php:26 tpl/head.php:27
+msgid "La Educación Prohibida"
+msgstr "La Educación Prohibida"
+
+#: tpl/head.php:28
+msgid ""
+"Quienes hicimos la película te pedimos que nos ayudes a seguir impulsando "
+"Reevo, la Red de Educación Alternativa..."
+msgstr ""
+"Quienes hicimos la película te pedimos que nos ayudes a seguir impulsando "
+"Reevo, la Red de Educación Alternativa..."
+
+#: tpl/menu.php:1
+msgid "titulo-pelicula"
+msgstr "Película"
+
+#: tpl/menu.php:3
+msgid "titulo-descargas"
+msgstr "Descargas"
+
+#: tpl/menu.php:4
+msgid "titulo-creditos"
+msgstr "Créditos"
+
+#: tpl/menu.php:5
+msgid "titulo-prensa"
+msgstr "Prensa"
+
+#: tpl/menu.php:6
+msgid "titulo-faq"
+msgstr "Preguntas frecuentes"
+
+#: tpl/menu.php:7
+msgid "titulo-legales"
+msgstr "Aspectos legales"
+
+#: tpl/menu.php:10
+msgid "titulo-investigacion"
+msgstr "Investigación"
+
+#: tpl/menu.php:12
+msgid "titulo-experiencias"
+msgstr "Experiencias"
+
+#: tpl/menu.php:13
+msgid "titulo-entrevistados"
+msgstr "Entrevistados"
+
+#: tpl/menu.php:17
+msgid "titulo-realizacion"
+msgstr "Realización"
+
+#: tpl/menu.php:19
+msgid "titulo-financiacion"
+msgstr "Financiación"
+
+#: tpl/menu.php:20
+msgid "titulo-herramientas"
+msgstr "Herramientas"
+
+msgid "titulo-contacto"
+msgstr "Contacto"

@@ -1,0 +1,588 @@
+.timeline-horizontal .timeline-highlight-label td {
+font-size: 215pt;
+font-style: bold;
+line-height: 0;
+}
+
+.timeline-copyright {
+display:none;
+}
+
+.licencia {
+    background: none repeat scroll 0 0 #1a1717;
+    border-top: 7px solid green;
+    clear: both;
+    color: #989898;
+    float: right;
+    font-size: 10px;
+    margin: 0;
+    padding: 7px;
+    width: -moz-max-content;
+}
+
+.set01 {
+    float: left;
+}
+.set02 {
+    float: left;
+}
+
+.areabanner {
+    float: left;
+    position: relative;
+}
+
+.cuadro4 {
+    background: url("/wp-content/uploads/2011/02/cuadro-contacto.png") no-repeat scroll 0 0 transparent;
+    clear: both;
+    color: black;
+    float: left;
+    font-size: 105%;
+    height: 99px;
+    padding: 11px 40px 10px 12px;
+    text-align: center;
+    width: 475px;
+ margin-right: 290px;
+}
+
+
+.cuadrodescargas {
+    background: url("/wp-content/uploads/2011/02/cuadrodescargas.png") no-repeat scroll 0 0 transparent;
+    color: black;
+    float: left;
+    height: 120px;
+    padding: 33px 40px 53px 46px;
+    width: 738px;
+}
+
+.cuadrodescargas img{
+    float: left;
+margin-right: 26px;
+}
+
+.equipotecnico {
+    float: left;
+    padding-left: 27px;
+    width: 820px;
+}
+
+.equipotecnico1 {
+    background: none repeat scroll 0 0 lightgrey;
+    color: black;
+    float: left;
+    padding-right: 5px;
+    text-align: right;
+    width: 220px;
+}
+
+.equipotecnico2 {
+    background: none repeat scroll 0 0 grey;
+    float: right;
+    padding-left: 5px;
+    width: 195px;
+margin-right: 27px;
+}
+
+.comercial {
+    background: none repeat scroll 0 0 #C5E5BA;
+    border-top: 10px inset darkgray;
+    color: black;
+    margin-left: 170px;
+    padding: 17px;
+    width: 469px;
+}
+
+#liberar1 {
+    background: none repeat scroll 0 0 #C5E5BA;
+    border-top: 10px inset darkgray;
+    color: black;
+    margin-bottom: 22px;
+    margin-top: 28px;
+    padding: 17px;
+    width: 370px;
+    float: right;
+}
+
+
+#liberar2 {
+     background: none repeat scroll 0 0 #C5E5BA;
+    border-top: 10px inset darkgray;
+    color: black;
+    float: left;
+    margin-top: 26px;
+    padding: 17px;
+    width: 371px;
+}
+
+.liberar3 {
+    background: none repeat scroll 0 0 #C5E5BA;
+    border-top: 10px inset darkgray;
+    color: black;
+    margin-bottom: 137px;
+    margin-top: 28px;
+    padding: 17px;
+    width: 370px;
+}
+
+
+.bannerface {
+    clear: both;
+    margin-left: 48px;
+    padding-top: 51px;
+float: left;
+}
+
+.avance {
+background: #E5E5E5;
+width: 350px;
+heigth: 150px;
+float: left;
+}
+
+#entrevista1 {
+    float: left;
+    margin-bottom: -7px;
+}
+
+#entrevista2 {
+float: right;
+}
+
+.cuadro1 {
+    background: url("/wp-content/uploads/2011/02/cuadro1.png") no-repeat scroll 0 0 transparent;
+    color: black;
+    float: left;
+    padding: 31px;
+
+}
+
+.cuadro1, page-id-139 {
+    height: 120px;
+    width: 600px;
+}
+
+.cuadro1, page-id-160 {
+    height: 120px;
+    margin-left: 7em;
+    margin-right: 7em;
+    width: 600px;
+}
+
+.auspicio {
+    background: url("/wp-content/uploads/2011/02/auspicio.png") no-repeat scroll 0 0 transparent;
+    color: green;
+    float: right;
+    height: 200px;
+    padding-top: 34px;
+    width: 200px;
+}
+
+#quienes0 {
+width: 600px;
+float: left;
+}
+
+#quienes01 {
+float: left;
+}
+
+#quienes1 {
+    background: none repeat scroll 0 0 grey;
+    border-top: 9px solid #294720;
+    float: left;
+    padding: 0 19px;
+color: white;
+}
+
+#quienes2 {
+    background: none repeat scroll 0 0 grey;
+    border-top: 9px solid #294720;
+    float: right;
+    padding: 15px 19px;
+color: white;
+}
+
+#quienesfoto {
+float: left;
+margin-top: -150px;
+}
+
+#financiacion1 {
+    background: none repeat scroll 0 0 grey;
+    border-top: 9px solid #294720;
+    color: white;
+    float: left;
+    margin: 12px;
+    padding: 16px;
+    width: 34em;
+}
+#financiacion2 {
+    background: none repeat scroll 0 0 grey;
+    border-top: 9px solid #294720;
+    color: white;
+    float: right;
+    margin-bottom: -40em;
+    margin-top: 13em;
+    padding: 16px;
+    width: 34em;
+}
+
+#avance01 {
+float: left;
+    margin-right: -10em;
+}
+
+#avance02 {
+float: left;
+}
+
+#btn-dona {
+    background: url("/wp-content/uploads/2011/02/btn-dona.png") no-repeat scroll 0 0 transparent;
+    color: green;
+    float: left;
+    height: 123px;
+    margin-left: 20em;
+    padding-top: 17px;
+    width: 250px;
+}
+
+#quees {
+    background: url("/wp-content/uploads/2011/02/quees1.png") no-repeat scroll 0 0 transparent;
+    height: 450px;
+    margin-left: 4em;
+    margin-right: 4em;
+    width: 750px;
+}
+
+#bar1 {
+    padding-left: 5em;
+    padding-top: 3em;
+}
+
+#bar2 {
+    margin-left: -129px;
+    padding-top: 36px;
+}
+
+#bar3 {
+    margin-left: 2em;
+    padding-top: 45px;
+}
+
+#bar4 {
+    margin-left: -8em;
+    padding-top: 30px;
+}
+
+#bar5 {
+    margin-left: 2em;
+    padding-top: 43px;
+}
+
+#realizacion1 {
+    background: none repeat scroll 0 0 grey;
+    border-top: 9px solid #294720;
+    color: white;
+    float: left;
+    margin: 12px;
+    padding: 16px;
+    width: 33em;
+}
+
+#realizacion2 {
+    float: right;
+    width: 37em;
+}
+
+#gastos1 {
+    background: none repeat scroll 0 0 transparent;
+    clear: both;
+    float: left;
+    height: 70px;
+    padding: 4px;
+    width: 450px;
+}
+
+#cajapresupuestos {
+    background: none repeat scroll 0 0 transparent;
+    float: left;
+    width: 870px;
+margin-bottom: 10px;
+}
+
+#cajapresupuestos2 {
+    float: left;
+    width: 870px;
+margin-bottom: 4em;
+}
+
+#precio-estimado{
+    background: none repeat scroll 0 0 transparent;
+    border-left: 6px solid grey;
+    color: #D0FBC4;
+    float: right;
+    font-size: 13px;
+    height: 70px;
+    padding-left: 10px;
+    width: 120px;
+}
+
+#a-c1 {
+  width: 50%;
+  float: left;
+  word-wrap: break-word;
+}
+
+#a-caja {
+    background: url("../img/fondo-gris-1.png") repeat scroll 0 0 transparent;
+    border-top: 7px solid lightgreen;
+    float: left;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    width: 90%;
+}
+
+#presupuesto1 {
+    background: none repeat scroll 0 0 transparent;
+    float: left;
+    height: 70px;
+    padding: 4px;
+clear: both;
+}
+
+#presupuesto2 {
+    background: none repeat scroll 0 0 transparent;
+    float: left;
+    height: 70px;
+    padding: 4px;
+clear: both;
+}
+
+#presupuesto3 {
+    background: none repeat scroll 0 0 transparent;
+    float: left;
+    height: 70px;
+    padding: 4px;
+clear: both;
+}
+
+#barrag1 {
+    background: url("/wp-content/uploads/2011/02/rojo1.png") repeat scroll 0 0 transparent;
+    display: block;
+    height: 20px;
+    left: 8px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -8000px;
+    top: 8px;
+    width: 600px;
+}
+
+#barrag2 {
+    background: url("/wp-content/uploads/2011/02/rojo0.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    text-align: center;
+font-weight: bold;
+}
+
+#barra1 {
+    background: url("/wp-content/uploads/2011/02/verde4.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    text-align: center;
+font-weight: bold;
+}
+
+#barra2 {
+    background: url("/wp-content/uploads/2011/02/verde3.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    text-align: center;
+font-weight: bold;
+}
+
+
+#barra3 {
+    background: url("/wp-content/uploads/2011/02/verde1.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    text-align: center;
+font-weight: bold;
+}
+
+#barra4 {
+    background: url("/wp-content/uploads/2011/02/verde0.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    text-align: center;
+font-weight: bold;
+}
+
+#referencias {
+padding-top: 23px;
+font-size: 90%;
+}
+
+.pf-investigacion {
+    background: url("../img/fondo-gris-1.png") repeat scroll 0 0 transparent;
+    border-left: 8px solid lightgreen;
+    float: left;
+    margin-top: -28px;
+    padding-left: 13px;
+    width: 632px;
+}
+
+.link-investigacion {
+font-weight: bold;
+}
+
+.col-total-investigacion {
+    float: left;
+    margin-left: 3em;
+    width: 960px;
+}
+
+.col-total-investigacion ul{
+    background: url("../img/fondo-gris-2.png") repeat scroll 0 0 transparent;
+    border-left: 8px solid lightgreen;
+    float: left;
+    font-size: 18px;
+    line-height: 36px;
+    list-style: none outside none !important;
+    width: 150px;
+}
+
+.col-total-investigacion li a {
+    padding-left: 12px;
+    text-decoration: none !important;
+color: #d9d9d9;
+}
+
+.col-total-investigacion li:hover {
+background:grey;
+}
+
+.col-total-investigacion h3 a {
+    text-decoration: none !important;
+}
+
+.apoyos {
+    background: none repeat scroll 0 0 white;
+    border-top: 10px solid lightgreen;
+    height: 22em;
+    padding: 38px;
+    width: 768px;
+}
+
+.apoyos1 {
+   clear: both;
+    height: 119px;
+    width: 59em;
+}
+
+.miembro-cd {
+    background: none repeat scroll 0 0 #0A0A0A;
+    border-top: 9px solid #69CF6E;
+    float: left;
+    line-height: 1.7em;
+    margin-bottom: 1.5em;
+    padding: 1em;
+    width: 94%;
+}
+
+.miembro-cd-foto {
+    border: 3px solid #69CF6E;
+    float: left;
+    margin-bottom: 1em;
+    padding: 3px;
+}
+
+.miembro-cd-texto {
+    color: white;
+    float: left;
+    padding-left: 2em;
+    width: 80%;
+}
+
+.miembro-cd-nombre {
+    border-bottom: 3px solid #69CF6E;
+    clear: right;
+    float: left;
+    font-size: 150%;
+    font-weight: bold;
+    width: 99%;
+}
+
+
+/*---------------FACEBOOK CUSTOM start--------------*/
+
+.fan_box a:hover{
+  text-decoration: none;
+}
+
+.fan_box .full_widget{
+  height: 200px;
+  border: 0 !important;
+  background: none !important;
+  position: relative;
+}
+
+.fan_box .connect_top{
+  background: none !important;
+  padding: 0 !important;
+}
+
+.fan_box .profileimage, .fan_box .name_block{
+  display: none;
+}
+
+.fan_box .connect_action{
+  padding: 0 !important;
+}
+
+.fan_box .connections{
+  padding: 0 !important;
+  border: 0 !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #666;
+}
+
+span.total{
+  color: #0080ff;
+  font-weight: bold;
+}
+
+.fan_box .connections .connections_grid {
+  padding-top: 10px !important;
+}
+
+.fan_box .connections_grid .grid_item{
+  padding: 0 10px 10px 0 !important;
+}
+
+.fan_box .connections_grid .grid_item .name{
+  font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+  font-weight: normal;
+  color: #289728 !important;
+  padding-top: 1px !important;
+}
+
+.fan_box .connect_widget{
+position: absolute;
+bottom: 0;
+left: 0px;
+margin: 0 !important;
+}
+
+.fan_box .connect_widget .connect_widget_interactive_area {
+margin: 0 !important;
+}
+
+.fan_box .connect_widget td.connect_widget_vertical_center {
+padding: 0 !important;
+}
+
+/*---------------FACEBOOK CUSTOM end--------------*/

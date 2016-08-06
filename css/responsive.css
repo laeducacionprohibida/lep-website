@@ -1,0 +1,118 @@
+
+.slicknav_menu {
+	display:none;
+}
+
+body.home #navegacion {
+	display: none;
+}
+
+
+
+@media screen and (max-width: 40em) {
+	/* #menu is the original menu */
+	#navegacion {
+		display:none;
+	}
+
+	.slicknav_menu {
+		display:block;
+	}
+
+  .col-total-contenido img {
+    border: none;
+    width: 100%;
+    height: auto;
+  }
+
+  #a-c1 {
+    width: 100%;
+    float: left;
+    word-wrap: break-word;
+  }
+
+  .col-3 {
+      padding: 10px 25px;
+      border-right: none;
+  }
+
+  .box-derecha {
+      float: right;
+      background: black;
+      border: 1px #ccc solid;
+      padding: 10px;
+      width: 100%;
+      box-sizing: border-box;
+      margin: 2em 0;
+  }
+
+}
+
+@media (max-width: 951px) {
+  body {
+    background:  #1a1a1a url(../img/cab_fondo2.jpg) top no-repeat;
+  }
+
+  #cab_logo_reevo{
+    display: none;
+  }
+
+	#portada-resumen {
+	    float: right;
+	    width: 100%;
+	    padding: 15px;
+	    text-align: center;
+	    font-family: 'Yanone Kaffeesatz',sans-serif;
+	    font-size: 150%;
+	    margin-bottom: 12px;
+	    box-sizing: border-box;
+	    /* margin-right: 2%; */
+	    position: relative;;
+	    left: 0;
+	}
+
+	.linedivider {
+	    background: url("../img/line1.png") no-repeat center 0px transparent;
+	    height: 30px;
+	    margin-bottom: 5px;
+	    margin-top: -14px;
+	}
+
+}
+
+@media (max-width: 620px) {
+  body {
+    background:  #1a1a1a url(../img/cab_fondo2.jpg) top no-repeat;
+  }
+
+  #cab_logo_reevo{
+    display: none;
+  }
+  .tabbed_content {
+    width: 100%;
+  }
+  .tabbed_content .slide_content {
+    display: block !important;
+
+  }
+  .tabslider {
+    width: auto;
+    display: block !important;
+  }
+
+  .tabs {
+    display: none !important;
+  }
+
+  #cab_logo {
+    background: url(../img/logo.png) no-repeat 20px 10px;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 115px;
+  }
+
+  #slide_content_mobile {
+    display:block;
+  }
+}
