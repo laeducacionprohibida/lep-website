@@ -1,5 +1,5 @@
-<h2>Versión completa</h2>
-<p>Versión oficial y completa de la película “La Educación Prohibida”. Duración: 02:25:18. Se encuentra disponible en 3 formatos y calidades diferentes:<br>
+<h2>Versão completa</h2>
+<p>Versão oficial e completa do filme “La Educación Prohibida”. Duração: 02:25:18. Está disponível em 3 formatos e qualidades diferentes:<br>
 </p>
 
 <div class="col-3">
@@ -7,15 +7,15 @@
 <h4><a class="lbp-inline-link-5 cboxElement" href="#">Alta Definición – HD</a></h4>
 <p><b>1920×1080 – 4.3Gb</b></p>
 <hr>
-<p><small>Máxima calidad de imagen. Ideal para proyecciones, dispositivos de alta definición, HDTV y <em>broadcasting</em>.</small></p>
+<p><small>Máxima qualidade de imagem. Ideal para projeções, dispositivos de alta definição, HDTV e <em>broadcasting</em>.</small></p>
 </div>
 
 <div class="col-3">
 <img src="/img/iconos/sd-imagen.png" alt="sd">
-<h4><a class="lbp-inline-link-6 cboxElement" href="#">Definición Estándar – SD</a></h4>
+<h4><a class="lbp-inline-link-6 cboxElement" href="#">Definição standard – SD</a></h4>
 <p><b>854×480 – 1.4Gb</b></p>
 <hr>
-<p><small>Muy buena calidad. Para netbooks, tablets y computadoras antiguas. Apto para TV analógica.</small></p>
+<p><small>Qualidade muito boa. Para netbooks, tablets y computadoras antiguas. Apto para TV analógica.</small></p>
 </div>
 
 <div class="col-3" style="border: none;">
