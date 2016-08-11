@@ -1,20 +1,20 @@
-<p>Aquí encontraran el listado de créditos de todas las personas que han trabajado en al equipo de “La Educación Prohibida”.</p>
-<p>Proyecto</p>
+<p>Aqui encontrarão a listagem de créditos de todas as pessoas que trabalharam na equipe do “La Educación Prohibida”.</p>
+<p>Projeto</p>
 <div id="a-c1">
 <div id="a-caja">
-<p style="text-align: left;"><strong>Producción Documental</strong></p>
-<p>Investigación y Guión<br>
+<p style="text-align: left;"><strong>Produção do Documentário</strong></p>
+<p>Pesquisa e script<br>
 German Doin<br>
 Verónica Guzzo</p>
 <p>Plataformas Colaborativas<br>
 Franco Iacomella<br>
 Cintia Paz</p>
-<p>Asistentes<br>
+<p>Assistentes<br>
 Fernanda Blanc<br>
 Oscar Fernando Borrero</p>
-<p>Realización Integral<br>
+<p>Realização Integral<br>
 German Doin</p>
-<p>Montaje<br>
+<p>Montagem<br>
 German Doin<br>
 Verónica Guzzo</p>
 <p>Facebook<br>
@@ -27,13 +27,13 @@ Ignacio Luongo</p>
 German Doin</p>
 </div>
 <div id="a-caja">
-<p style="text-align: left;"><strong>Traducciones Web</strong></p>
+<p style="text-align: left;"><strong>Traduções Web</strong></p>
 <p style="text-align: left;">Italiano<br>
 Alicia Fanesi<br>
 Caro Farotto<br>
 Federico Magrini<br>
 Valeria Vanni</p>
-<p>Inglés<br>
+<p>Inglês<br>
 Adrian Biondi<br>
 Alejandra<br>
 Jose Manuel Aparicio<br>
@@ -56,11 +56,11 @@ Heidi</p>
 <p>Alemán<br>
 Marga Sardá<br>
 María Neyra Seva</p>
-<p>Frances<br>
+<p>Francês<br>
 Andy Plancassagne Carneado</p>
 </div>
 <div id="a-caja">
-<p style="text-align: center;"><strong>Trascripciones de Entrevistas</strong></p>
+<p style="text-align: center;"><strong>Trascrições das Entrevistas</strong></p>
 <p style="text-align: center;">Alejandro Christian Joos<br>
 Alexandra Clifton Goldney<br>
 Elisa Basso<br>
@@ -96,17 +96,17 @@ Carolina Maren</p>
 </div>
 <div id="a-c1">
 <div id="a-caja">
-<p style="text-align: left;"><strong>Producción</strong></p>
-<p>Asociación Civil Redes de Pares<br>
+<p style="text-align: left;"><strong>Produção</strong></p>
+<p>Associação Civil Redes de Pares<br>
 Reevo</p>
-<p style="text-align: left;"><strong>Coproducción Internacional</strong></p>
+<p style="text-align: left;"><strong>Co-produção Internacional</strong></p>
 <p>Maria Farinha Producciones</p>
 </div>
 <div id="a-caja">
-<p style="text-align: left;"><strong>Ilustraciones / Animaciones</strong></p>
-<p>Web / Proyecto<br>
+<p style="text-align: left;"><strong>Ilustrações / Animações</strong></p>
+<p>Web / Projeto<br>
 Pablo Pickyl</p>
-<p>Presentación<br>
+<p>Apresentação<br>
 Cristina Garcia Ganga<br>
 http://www.crixtina.com/</p>
 <p>Capítulo 01 y 03<br>
@@ -121,7 +121,7 @@ Martin Ezchoyes<br>
 http://epanimation.com.ar/</p>
 <p>Capítulo 06<br>
 Florencia Evdemon<br>
-de Cooperativa Animadores de Rosario Ltda.<br>
+da Cooperativa Animadores de Rosario Ltda.<br>
 http://www.peroqueflordeblog.blogspot.com.ar/</p>
 <p>Capítulo 07<br>
 Cooperativa de Animación Tembe<br>
@@ -139,13 +139,13 @@ http://www.lorenamendezanimaciones.blogspot.com.ar/</p>
 </div>
 <div id="a-caja">
 <p style="text-align: left;"><strong>Música</strong></p>
-<p>Música Original y Diseño de Sonido<br>
+<p>Música Original e Desenho de Som<br>
 Juan Mac Lean<br>
 Javier Ruiz</p>
-<p>Canciones Utilizadas<br>
-(todas las canciones utilizadas se encuentran publicadas bajo las licencias Creative Commons)</p>
+<p>Canções Utilizadas<br>
+(todas as canções utilizadas se encontram publicadas sob as licenças da Creative Commons)</p>
 <p>“In the Dewdrop”<br>
-de Expedizion por Guillrmo Agnese<br>
+de Expedizion por Guillermo Agnese<br>
 Interpretado por Guillermo Agnese<br>
 http://planetarylabel.bandcamp.com</p>
 <p>“Zoreya (Hang y Sarangi)”<br>
@@ -176,95 +176,95 @@ de El Perez<br>
 http://elperez.jamendo.net</p>
 <p>Locución en Off<br>
 German Doin</p>
-<p>Las locuciones fueron grabadas en el Estudio de Grabación El Pie, cortesía de Alejandro Lerner</p>
+<p>As locuções foram gravadas no Estudio de Grabação El Pie, cortesia de Alejandro Lerner</p>
 </div>
 </div>
 <div id="a-c1">
 <div id="a-caja">
-<p style="text-align: center;"><strong>Equipo Técnico / Artístico (Unidad 01)</strong></p>
-<p style="text-align: center;">Guión<br>
+<p style="text-align: center;"><strong>Equipe Técnica / Artística (Unidade 01)</strong></p>
+<p style="text-align: center;">Script<br>
 Julieta Canicoba<br>
 Juan Vautista</p>
-<p>Dirección<br>
+<p>Direção<br>
 Juan Vautista</p>
-<p>Asistencia de Dirección<br>
+<p>Assistência de Direção<br>
 Julieta Canicoba</p>
-<p>Ayudante de Dirección<br>
+<p>Ajudante de Direção<br>
 Octavio Alonso</p>
-<p>Producción<br>
+<p>Produção<br>
 Daiana Gomez</p>
-<p>Asistentes de Producción<br>
+<p>Assistentes de Produção<br>
 Eimi Ailen Campos<br>
 Fernanda Blanc<br>
 Florencia Moreno</p>
-<p>Dirección de Fotografía y Cámara<br>
+<p>Direção de Fotografia e Câmara<br>
 Sandra Grossi</p>
 <p>Gaffer<br>
 Brian Brown</p>
-<p>Eléctricos / Iluminación<br>
+<p>Eletricistas / Iluminação<br>
 Raul Laffitte<br>
 Ezequiel Abila</p>
-<p>Cámara<br>
+<p>Câmara<br>
 Sandra Grossi<br>
 Agustina Trincavelli<br>
 Tamara Ajzensztat<br>
 Carolina Ronaldi</p>
-<p>Asistencia de Cámara<br>
+<p>Assistência de Câmara<br>
 Carolina Ronaldi<br>
 Ignacio</p>
-<p>Fotografía Fija<br>
+<p>Fotografia Fixa<br>
 Cintia Paz<br>
 Adriana Nahijhian</p>
 <p>Bajada de Material<br>
 Alejandro Joos</p>
-<p>Sonido Directo<br>
+<p>Som Direto<br>
 Juan Mac Lean<br>
 Mario Salvado</p>
-<p>Técnicos de Sonido<br>
+<p>Técnicos de Som<br>
 Diego Franco<br>
 Gabriel Ortuzar</p>
-<p>Dirección de Arte<br>
+<p>Direção de Arte<br>
 Micaela Sleigh<br>
 Alejandro Alonso Marcucci</p>
-<p>Asistencia de Arte<br>
+<p>Assistência de Arte<br>
 Yamila Marque</p>
 <p>Vestuario<br>
 La Polilla Vestuario</p>
 <p>Vestuarista<br>
 Gustavo Alderete</p>
-<p>Asistencia de Vestuario<br>
+<p>Assistência de Vestuario<br>
 Ivana Perelmuter<br>
 Rodrigo Lico</p>
-<p>Maquillaje<br>
+<p>Maquiagem<br>
 Martina Grossi</p>
-<p>Asistencia de Maquillaje<br>
+<p>Assistencia de Maquiagem<br>
 Mayra Blazina</p>
 <p>Backstage<br>
 Sebastián Violante</p>
 </div>
 <div id="a-caja">
-<p style="text-align: center;"><strong>Equipo Técnico / Artístico (Unidad 02)</strong></p>
+<p style="text-align: center;"><strong>Equipe Técnica / Artística (Unidade 02)</strong></p>
 <p style="text-align: center;">Dirección<br>
 German Doin</p>
-<p>Asistencia de Dirección<br>
+<p>Assistência de Direção<br>
 Alejandro Joos</p>
-<p>Iluminación<br>
+<p>Iluminação<br>
 Cintia Paz</p>
-<p>Producción<br>
+<p>Produção<br>
 Verónica Guzzo</p>
-<p>Asistencia de Producción<br>
+<p>Assistência de Produção<br>
 Fernanda Blanc<br>
 Eimi Campos</p>
-<p>Maquillaje<br>
+<p>Maquiagem<br>
 Mayra Blazina</p>
 </div>
 <div id="a-caja">
-<p style="text-align: center;"><strong>Equipo Técnico / Artístico (Unidad 03)</strong></p>
-<p style="text-align: center;">Cámara<br>
+<p style="text-align: center;"><strong>Equipe Técnica / Artística (Unidade 03)</strong></p>
+<p style="text-align: center;">Câmara<br>
 German Doin</p>
-<p>Asistencia de Cámara<br>
+<p>Assistência de Câmara<br>
 Verónica Guzzo</p>
-<p>Asistentes eventuales<br>
+<p>Assistentes eventuais<br>
 Oscar Fernando Borrero<br>
 Matias De Stefano<br>
 Federico Matassi</p>
@@ -272,69 +272,69 @@ Federico Matassi</p>
 </div>
 <div id="a-c1">
 <div id="a-caja">
-<p style="text-align: center;"><strong>Elenco Ficción</strong></p>
+<p style="text-align: center;"><strong>Elenco Ficção</strong></p>
 <p>Martin – Santiago Magariños<br>
 Micaela – Amira Adre<br>
 Juan – Nicolás Valenzuela<br>
-Profesor Javier – Gastón Pauls<br>
-Directora Alicia – Alejandra Figueroa<br>
-Profesora Cristina – Jimena Del Pozo<br>
+Professor Javier – Gastón Pauls<br>
+Diretora Alicia – Alejandra Figueroa<br>
+Professora Cristina – Jimena Del Pozo<br>
 Sebastian – Jota David Ojeda<br>
 Marianela – Eliana Grosso<br>
 Catalina – Victoria Larriveu<br>
-Maestra Teresa – Teresa Gioia<br>
+Mestre Teresa – Teresa Gioia<br>
 Psicólogo – Tulio Gomez Alzaga<br>
-Padre de Micaela – Sandro Molfesa<br>
-Madre de Juan – Maria Del Carmen Antelo<br>
-Maestra 1 – Marina Groshaus<br>
-Maestra 2 – Nancy Encinas<br>
-Maestra 3 – Mariza Veiga Lopez<br>
+Pai da Micaela – Sandro Molfesa<br>
+Mãe do Juan – Maria Del Carmen Antelo<br>
+Mestre 1 – Marina Groshaus<br>
+Mestre 2 – Nancy Encinas<br>
+Mestre 3 – Mariza Veiga Lopez<br>
 Maestro 4 – Patricia Lomónaco<br>
 Maestro 5 – Ezequiel Abila<br>
-Profesor 1 – Juan Facundo Licera Merli<br>
-Profesor 2 – Jorge Garibotto<br>
-Profesor 3 – Adriel Defelice<br>
-Profesor 4 – Carlos Caparulo<br>
-Alumno 1 – Ailin Malen<br>
-Alumno 2 – Santiago Perez<br>
-Alumno 3 – Paine Vische Lucka<br>
-Alumno 4 – Ivan Cremata<br>
-Alumno 5 – Martin Gil<br>
-Alumno 6 – Brenda Mele<br>
-Alumno 7 – Macarena Sol Bieniauskas<br>
-Alumno 8 – Daniela Poczymok<br>
-Alumno 9 – Julian Oddone<br>
-Alumno 10 – Malena Pierotti<br>
-Alumno 11 – Juan Cruz Rimoldi<br>
-Alumno 12 – Santiago Palmieri<br>
-Alumno 13 – Octavio Alcoba<br>
-Alumno 14 – Sofia Pierotti<br>
-Alumno 15 – Luca Mele<br>
-Alumno 16 – Eugenia Saraseni<br>
-Alumno 17 – Carolina Dorso<br>
-Alumno 18 – Carola Santoro<br>
-Alumno 19 – Gabriel González<br>
-Alumno 20 – Paula González<br>
-Alumno 21 – Camila<br>
-Alumno 22 – Michelle Trajtenberg<br>
-Alumno 23 – Martina<br>
-Alumno 24 – Lara De Rosa<br>
-Alumno 25 – Matteo Sfriso<br>
-Alumno 26 – Lola Sfriso<br>
-Alumno 27 – Ignacio<br>
-Alumno 28 – Merlina Avogadro<br>
-Alumno 29 – Edwina Avogadro<br>
-Alumno 30 – Máximo Del Priore<br>
-Alumno 31 – Maia<br>
-Alumno 32 – Maximiliano Marrero<br>
-Alumno 33 – Sofia Gruchesky<br>
-Alumno 34 – Mateo Daskal<br>
-Alumno 35 – Facundo Daskal<br>
-Alumno 36 – Isabella Viviano<br>
-Alumno 37 – Agustina Peralta</p>
+Professor 1 – Juan Facundo Licera Merli<br>
+Professor 2 – Jorge Garibotto<br>
+Professor 3 – Adriel Defelice<br>
+Professor 4 – Carlos Caparulo<br>
+Aluno 1 – Ailin Malen<br>
+Aluno 2 – Santiago Perez<br>
+Aluno 3 – Paine Vische Lucka<br>
+Aluno 4 – Ivan Cremata<br>
+Aluno 5 – Martin Gil<br>
+Aluno 6 – Brenda Mele<br>
+Aluno 7 – Macarena Sol Bieniauskas<br>
+Aluno 8 – Daniela Poczymok<br>
+Aluno 9 – Julian Oddone<br>
+Aluno 10 – Malena Pierotti<br>
+Aluno 11 – Juan Cruz Rimoldi<br>
+Aluno 12 – Santiago Palmieri<br>
+Aluno 13 – Octavio Alcoba<br>
+Aluno 14 – Sofia Pierotti<br>
+Aluno 15 – Luca Mele<br>
+Aluno 16 – Eugenia Saraseni<br>
+Aluno 17 – Carolina Dorso<br>
+Aluno 18 – Carola Santoro<br>
+Aluno 19 – Gabriel González<br>
+Aluno 20 – Paula González<br>
+Aluno 21 – Camila<br>
+Aluno 22 – Michelle Trajtenberg<br>
+Aluno 23 – Martina<br>
+Aluno 24 – Lara De Rosa<br>
+Aluno 25 – Matteo Sfriso<br>
+Aluno 26 – Lola Sfriso<br>
+Aluno 27 – Ignacio<br>
+Aluno 28 – Merlina Avogadro<br>
+Aluno 29 – Edwina Avogadro<br>
+Aluno 30 – Máximo Del Priore<br>
+Aluno 31 – Maia<br>
+Aluno 32 – Maximiliano Marrero<br>
+Aluno 33 – Sofia Gruchesky<br>
+Aluno 34 – Mateo Daskal<br>
+Aluno 35 – Facundo Daskal<br>
+Aluno 36 – Isabella Viviano<br>
+Aluno 37 – Agustina Peralta</p>
 </div>
 <div id="a-caja">
-<p style="text-align: center;"><strong>Actores en Estudio</strong></p>
+<p style="text-align: center;"><strong>Atores no Estudio</strong></p>
 <p>Agostina Calderon<br>
 Alicia Laura Rocca<br>
 Arón Vergara Lope<br>
