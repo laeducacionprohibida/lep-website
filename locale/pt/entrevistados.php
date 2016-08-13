@@ -22,96 +22,96 @@ Professora Programa Educação Evolutiva
 Professora de Ensino Fundamental, Criadora do método Alfabetização Criativa
 
 <strong>María del Carmen La Valle</strong>
-Formada em Psicopedagogia, Terapeuta holística e especialista em Crianças da Novas Gerações
+Formada em Psicopedagogia, Terapeuta holística e especialista em Crianças das Novas Gerações
 <a href="http://www.educacionholistica.com" target="_blank">www.educacionholistica.com</a>
 
 <strong>Paula Rodriguez</strong>
-Docente Cooperativa de Trabajo de Enseñanza Olga Cossetini LTDA
+Professora Cooperativa de Trabalho de Ensino Olga Cossetini LTDA
 <a href="http://www.coop-olgacossettini.com.ar" target="_blank">www.coop-olgacossettini.com.ar</a>
 
 <strong>Silvina Fernanda Gonzalez</strong>
-Docente, Equipo directivo Cooperativa de Trabajo de Enseñanza Olga Cossetini LTDA
+Professora, Equipe diretora Cooperativa de Trabalho de Ensino Olga Cossetini LTDA
 <a href="http://www.coop-olgacossettini.com.ar" target="_blank">www.coop-olgacossettini.com.ar</a>
 
 <strong>Tamina Alvarez</strong>
-Docente Programa Educacion Evolutiva
+Professora Programa Educação Evolutiva 
 <a href="http://www.educacionevolutiva.org" target="_blank">www.educacionevolutiva.org</a>
 
 <strong>Marisa Docampo</strong>
-Docente, Coordinadora Pedagógica Instituto Gonzalez Pecotche - Escuela Logosófica
+Professora, Coordenadora Pedagógica Instituto Gonzalez Pecotche - Escola Logosófica
 <a href="http://www.igp.esc.edu.ar/" target="_blank">www.igp.esc.edu.ar</a>
 
 <strong>Fernán Melella</strong>
-Logósofo, Miembro de la Fundación Logosófica
+Logósofo, Membro da Fundação Logosófica
 <a href="http://www.fundacionlogosofica.org/" target="_blank">www.fundacionlogosofica.org</a>
 
 <strong>Emilio Urruti
-</strong>Maestro Escuela Experimental La Bahia, Ushuaia
+</strong>Professora Escola Experimental La Bahia, Ushuaia
 
 <strong>Sandra Majluf</strong>
-Maestra Escuela Experimental Las Lengas, Ushuaia
+Professora Escola Experimental Las Lengas, Ushuaia
 
 <strong>Ginés Del Castillo
-</strong>Director General Escuela de la Nueva Cultura "La Cecilia"
+</strong>Diretor Geral Escola da Nova Cultura "La Cecilia"
 <a href="http://www.lacecilia.org.ar">www.lacecilia.org.ar</a>
 
 <strong>Adriana Catalano
-</strong>Directora Jardìn de Infantes Nº14 "Caramelos Surtidos", Ushuaia
+</strong>Diretora Jardim da Infância Nº14 "Caramelos Surtidos", Ushuaia
 
 <strong>Marcelo Caldano</strong>
-Padre y co-fundador Cooperativa de Trabajo de Enseñanza Olga Cossetini LTDA
+Pai e co-fundador Cooperativa de Trabalho de Ensino Olga Cossetini LTDA
 
 
 <h3>Chile</h3>
 
 <strong>Carlos Manuel Calvo Muñoz
-</strong> Educador, Investigador Universidad de la Serena
+</strong> Educador, Pesquisador Universidad de la Serena
 Autor "Del mapa escolar, al territorio educativo"
 
 <strong>Ellinor Barentin
-</strong> Guia Montessori AMI, Formadora y Directora Centro Estudios Montessori
+</strong> Guia Montessori AMI, Formadora e Diretora Centro Estudos Montessori
 <a href="http://www.centromontessori.cl" target="_blank"> www.centromontessori.cl</a>
 
 <strong>Fernando Jorquera
-</strong> Educador, Fundador y Director YOAPRENDO
+</strong> Educador, Fundador e Diretor YOAPRENDO
 <a href="http://www.yoaprendo.cl" target="_blank"> www.yoaprendo.cl</a>
 
 <strong>Fredy H. Womper Gallardo
-</strong> Investigador Educacional, Autor libro "Inteligencia Holística"
+</strong> Pesquisador Educacional, Autor livro "Inteligencia Holística"
 <a href="http://www.lainteligenciaholistica.blogspot.com/">www.lainteligenciaholistica.blogspot.com</a>
 
 <strong>Iván Oliva Figueroa
-</strong> Doctor en Ciencias de la Educación y Licenciado en Biologia.
-Investigación en Teoria de la Complejidad y Transdisciplina
-Universidad Austral de Chile
+</strong> Doutor em Ciências da Educação e Formado em Biologia. 
+Pesquisa em Teoria da Complexidade e Transdisciplina 
+Universidade Austral do Chile
 
 <strong>Mariacela Mansilla
-</strong> Docente, Terapeuta Ocupacional
+</strong> Professora, Terapeuta Ocupacional
 
 <strong>Paulina Salazar Sierra
-</strong> Directora Casa Arcoiris
+</strong> Diretora Casa Arcoiris
 <a href="http://www.casa-arcoiris.blogspot.com" target="_blank"> www.casa-arcoiris.blogspot.com</a>
 
 <strong>Sergio Toro Arévalo
-</strong> Doctor en Educación, Didáctica, Motricidad y Aprendizaje
-Universidad Austral de Chile
+</strong> Doutor em Educação, Didática, Motricidade e Aprendizagem
+Universidade Austral do Chile
 
 <strong>Gonzalo Córvoba</strong>
 Educador Flor de La Vida
 Puerto Varas, Chile
 
 
-<h3>Colombia</h3>
+<h3>Colômbia</h3>
 
 <strong>Jahuira – Carlos Germán Duque Martinez</strong>
-Doctor en Pedagogía, Director Colegio Ideas
+Doutor em Pedagogia, Diretor Colégio Ideas
 <a href="http://colegioideas.edu.co/" target="_blank"> http://colegioideas.edu.co/</a>
-Cali – Colombia
+Cali – Colômbia
 
 <strong>Marcela López Pineda</strong>
-Profesional en Recreación
-Proyecto Ciudad, Arte y Educación – Instituto Popular de Cultura de Cali
-Cali – Colombia
+Profissional em Recreação 
+Projeto Ciudad, Arte y Educación – Instituto Popular de Cultura de Cali
+Cali – Colômbia
 
 <strong>William Rodriguez Sánchez</strong>
 Profesor de Pedagogía, Director Instituto Popular de Cultura de Cali
