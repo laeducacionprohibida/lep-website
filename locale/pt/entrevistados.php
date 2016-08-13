@@ -7,22 +7,22 @@ Médico, psicoterapeuta, fundador Holismo
 <a title="Holismo" href="http://www.holismo.org.ar" target="_blank">www.holismo.org.ar</a>
 
 <strong>Claudia Isabel Sosa</strong>
-Docente Programa Educacion Evolutiva
+Professora Programa Educação Evolutiva 
 <a href="http://www.educacionevolutiva.org" target="_blank">www.educacionevolutiva.org</a>
 
 <strong>Erika Scheverlein</strong>
-Docente Cooperativa de Trabajo de Enseñanza Olga Cossetini LTDA
+Professora Cooperativa de Trabalho de Ensino Olga Cossetini LTDA
 <a href="http://www.coop-olgacossettini.com.ar" target="_blank">www.coop-olgacossettini.com.ar</a>
 
 <strong>Gabriela Lepre</strong>
-Docente Programa Educacion Evolutiva
+Professora Programa Educação Evolutiva
 <a href="http://www.educacionevolutiva.org" target="_blank">www.educacionevolutiva.org</a>
 
 <strong>María Beatriz Salto</strong>
-Docente de primaria, Creadora del mñetodi Alfabetización Creativa
+Professora de Ensino Fundamental, Criadora do método Alfabetização Criativa
 
 <strong>María del Carmen La Valle</strong>
-Licenciada en Psicopedagogía, Terapeuta Holística, y especialista en los Niños de las Nuevas Generaciones
+Formada em Psicopedagogia, Terapeuta holística e especialista em Crianças da Novas Gerações
 <a href="http://www.educacionholistica.com" target="_blank">www.educacionholistica.com</a>
 
 <strong>Paula Rodriguez</strong>
