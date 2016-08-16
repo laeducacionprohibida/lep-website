@@ -14,7 +14,7 @@ msgstr ""
 
 #: index.php:31 index.php:66
 msgid "Descargar"
-msgstr "Descargar"
+msgstr "Baixar"
 
 #: index.php:34
 msgid "Colaborar"
