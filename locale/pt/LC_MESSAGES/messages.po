@@ -22,27 +22,27 @@ msgstr "Colaborar"
 
 #: index.php:45
 msgid "Película"
-msgstr "Película"
+msgstr "Filme"
 
 #: index.php:47
 msgid "Definición estándar- SD"
-msgstr "Definición estándar- SD"
+msgstr "Definição standard- SD"
 
 #: index.php:48
 msgid "Versión móvil"
-msgstr "Versión móvil"
+msgstr "Versão mobile"
 
 #: index.php:49
 msgid "Alta definición - HD"
-msgstr "Alta definición - HD"
+msgstr "Alta definição - HD"
 
 #: index.php:53
 msgid "Mas opciones"
-msgstr "Mas opciones"
+msgstr "Mais opções"
 
 #: index.php:54
 msgid "Subtítulos"
-msgstr "Subtítulos"
+msgstr "Legendas"
 
 #: index.php:59
 msgid "Trailer"
@@ -54,7 +54,7 @@ msgstr "Ver Online"
 
 #: index.php:76
 msgid "Hosting"
-msgstr "Hosting"
+msgstr "Hospedajem"
 
 #: index.php:77
 msgid ""
@@ -63,14 +63,14 @@ msgid ""
 "cuando alguien quiera descargar la película. <a href=\"/?p=contacto"
 "\">Contáctanos...</a></p>"
 msgstr ""
-"<p>Puedes colaborar alojando copias de las diferentes versiones de la "
-"película en tu servidor web. Esto nos permitirá contar con mas opciones "
-"cuando alguien quiera descargar la película. <a href=\"/?p=contacto"
-"\">Contáctanos...</a></p>"
+"<p>Você pode ajudar a manter cópias de diferentes versões do filme"
+"em seu servidor web. Isto irá permitir-nos ter mais opções quando"
+"alguém quer baixar o filme. <a href=\"/?p=contacto"
+"\">Escreva-nos...</a></p>"
 
 #: index.php:81
 msgid "Aporte económico"
-msgstr "Aporte económico"
+msgstr "Contribuição econômica"
 
 #: index.php:82
 msgid ""
@@ -81,12 +81,9 @@ msgid ""
 "donar.reevo.org/form.php?donar=1\">haciendote miembro o haciendo una "
 "donación</a></b>."
 msgstr ""
-"<p>Hemos terminado la película y ya está al alcance de todo el mundo sin "
-"barreras económicas. Tenemos otros proyectos en marcha, como <a target="
-"\"_blank\" href=\"http://reevo.org\">Reevo</a>, la red de educación "
-"alternativa mas grande a Iberoamérica. <b>Puedes apoyarnos <a href=\"https://"
-"donar.reevo.org/form.php?donar=1\">haciendote miembro o haciendo una "
-"donación</a></b>."
+"<p>HTerminamos o filme e agora está disponível para todos, sem barreiras econômicas. Nós temos outros projetos em andamento, como <a target="
+"\"_blank\" href=\"http://reevo.org\">Reevo</a>, a maior rede de educação alternativa da América Latina. <b>Você pode apoiar-nos <a href=\"https://"
+"donar.reevo.org/form.php?donar=1\">omo um membro ou fazer uma doação</a></b>."
 
 #: index.php:94
 msgid ""
@@ -94,9 +91,9 @@ msgid ""
 "recorrido por 8 países de Iberoamérica visitando <a href=\"/?p=experiencias"
 "\">45 experiencias educativas</a>."
 msgstr ""
-"Más de <a href=\"/?p=entrevistas\">90 entrevistas</a> a educadores en un "
-"recorrido por 8 países de Iberoamérica visitando <a href=\"/?p=experiencias"
-"\">45 experiencias educativas</a>."
+"Mais de <a href=\"/?p=entrevistas\">90 entrevistas</a> com educadores em um "
+"tour de 8 países da América Latina visitando <a href=\"/?p=experiencias"
+"\">45 experiências educacionais</a>."
 
 #: index.php:96
 msgid ""
@@ -104,7 +101,7 @@ msgid ""
 "704 coproductores a través de internet."
 msgstr ""
 "Un proyecto <a href=\"/?p=financiacion\">financiado colectivamente</a> por "
-"704 coproductores a través de internet."
+"704 co-produtores através da Internet."
 
 #: index.php:98
 msgid ""
@@ -113,10 +110,10 @@ msgid ""
 "más de 12.000.000 de <a href=\"http://youtu.be/-1Y9OqSJKCc\">reproducciones</"
 "a> en la red."
 msgstr ""
-"Una producción de <a href=\"/?p=legales\">distribución libre</a>, publicada "
-"originalmente en español con más de 900 proyecciones independientes</a> y "
-"más de 12.000.000 de <a href=\"http://youtu.be/-1Y9OqSJKCc\">reproducciones</"
-"a> en la red."
+"A produção de <a href=\"/?p=legales\">distribuição gratuita e livre</a>, "
+"originalmente publicado em espanhol com mais de 900 projeções independentes</a> e "
+"mais de 12.000.000 <a href=\"http://youtu.be/-1Y9OqSJKCc\">visualizações</"
+"a> na rede."
 
 #: index.php:100
 msgid ""
@@ -124,9 +121,9 @@ msgid ""
 "Prohibida</a> es un obra abierta pensada para la <a href=\"http://www.reevo."
 "org/\">transformación social</a>."
 msgstr ""
-"Más que una película documental, <a href=\"/?p=pelicula\">La Educación "
-"Prohibida</a> es un obra abierta pensada para la <a href=\"http://www.reevo."
-"org/\">transformación social</a>."
+"Mais que um filme documentário, <a href=\"/?p=pelicula\">A Educação Proibida"
+"</a> é uma obra aberta destinada à <a href=\"http://www.reevo."
+"org/\">transformação social</a>."
 
 #: index.php:124
 msgid "titulo-"
@@ -138,63 +135,61 @@ msgid ""
 "¿Quieres contactarnos?</a>"
 msgstr ""
 "Copyleft 2009-2016 - La Educación Prohibida |<b><a href=\"/?p=contacto\">"
-"¿Quieres contactarnos?</a>"
+"Você quer entrar em contato com a gente?</a>"
 
 #: tpl/footer.php:10
 msgid ""
 "Se permite y alienta la copia, modificación y redistribución de todos los "
 "contenidos. <a href=\"/legales.php\">Mas información..."
 msgstr ""
-"Se permite y alienta la copia, modificación y redistribución de todos los "
-"contenidos. <a href=\"/legales.php\">Mas información..."
+"Nós permitimos e encorajamos a cópia, modificação e distribuição de todo o conteúdo. <a href=\"/legales.php\">Mais informação..."
 
 #: tpl/footer.php:15
 msgid "Producción"
-msgstr "Producción"
+msgstr "Produção"
 
 #: tpl/footer.php:17
 msgid "Reevo - Red de Educación Alternativa"
-msgstr "Reevo - Red de Educación Alternativa"
+msgstr "Reevo - Rede de Educação Alternativa"
 
 #: tpl/footer.php:21
 msgid "Coproducción Internacional"
-msgstr "Coproducción Internacional"
+msgstr "Coprodução Internacional"
 
 #: tpl/header.php:5
 msgid "Siguenos en Twitter"
-msgstr "Siguenos en Twitter"
+msgstr "Siga-nos no Twitter"
 
 #: tpl/header.php:6
 msgid "Siguenos en Facebook"
-msgstr "Siguenos en Facebook"
+msgstr "Siga-nos no Facebook"
 
 #: tpl/head.php:6
 msgid ""
 "La Educación Prohibida | Un proyecto audiovisual para transformar la "
 "educación"
 msgstr ""
-"La Educación Prohibida | Un proyecto audiovisual para transformar la "
-"educación"
+"A Educação Proibida | Um projeto audiovisual para transformar a educação"
 
 #: tpl/head.php:26 tpl/head.php:27
 msgid "La Educación Prohibida"
-msgstr "La Educación Prohibida"
+msgstr "A Educação Proibida"
 
 #: tpl/head.php:28
 msgid ""
 "Quienes hicimos la película te pedimos que nos ayudes a seguir impulsando "
 "Reevo, la Red de Educación Alternativa..."
 msgstr ""
-"Quienes hicimos la película te pedimos que nos ayudes a seguir impulsando "
-"Reevo, la Red de Educación Alternativa..."
+"Quem somos fazer o filme pedimos-lhe para nos ajudar a desenvolver "
+"Reevo, A Rede de Educação Alternativa..."
 
 #: tpl/menu.php:1
 msgid "titulo-pelicula"
-msgstr "Película"
+msgstr "Filme"
 
 #: tpl/menu.php:3
 msgid "titulo-descargas"
-msgstr "Descargas"
+msgstr "Downloads"
 
 #: tpl/menu.php:4
 msgid "titulo-creditos"
@@ -206,19 +201,19 @@ msgstr "Prensa"
 
 #: tpl/menu.php:6
 msgid "titulo-faq"
-msgstr "Preguntas frecuentes"
+msgstr "Perguntas frequentes"
 
 #: tpl/menu.php:7
 msgid "titulo-legales"
-msgstr "Aspectos legales"
+msgstr "Aspectos legais"
 
 #: tpl/menu.php:10
 msgid "titulo-investigacion"
-msgstr "Investigación"
+msgstr "Pesquisa"
 
 #: tpl/menu.php:12
 msgid "titulo-experiencias"
-msgstr "Experiencias"
+msgstr "Experiências"
 
 #: tpl/menu.php:13
 msgid "titulo-entrevistados"
@@ -226,15 +221,15 @@ msgstr "Entrevistados"
 
 #: tpl/menu.php:17
 msgid "titulo-realizacion"
-msgstr "Realización"
+msgstr "Realização"
 
 #: tpl/menu.php:19
 msgid "titulo-financiacion"
-msgstr "Financiación"
+msgstr "Financiamento"
 
 #: tpl/menu.php:20
 msgid "titulo-herramientas"
-msgstr "Herramientas"
+msgstr "Ferramentas"
 
 msgid "titulo-contacto"
-msgstr "Contacto"
+msgstr "Contato"
