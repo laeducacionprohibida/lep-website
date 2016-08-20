@@ -1,4 +1,3 @@
-
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', False);
@@ -11,7 +10,7 @@ include('tpl/head.php');
 
 if (!$_GET['p']) { ?>
 
-  <body class='home'>
+  <body class='home <?php echo $lang; ?>'>
 
   <?php  include('tpl/header.php');?>
 
@@ -19,7 +18,13 @@ if (!$_GET['p']) { ?>
     <div id="contenido" class="cont-portada">
       <div id="contenido-pelicula">
         <div id="contenido-pelicula-player">
-          <iframe width="560" height="349" src="http://www.youtube.com/embed/-1Y9OqSJKCc?rel=0" frameborder="0" allowfullscreen></iframe>
+          <?php if ( $lang == "pt" ) { ?>
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/OTerSwwxR9Y" frameborder="0" allowfullscreen></iframe>
+          <?php } ?>
+          <?php if ( $lang == "es" ) { ?>
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/-1Y9OqSJKCc?rel=0" frameborder="0" allowfullscreen></iframe>
+          <?php } ?>
+
         </div>
 
         <div class='tabbed_content'>
@@ -59,15 +64,20 @@ if (!$_GET['p']) { ?>
                   <h3><?php echo _('Trailer');?></h3>
                   <h3 style="font-size:8pt;"><?php echo _('Ver Online');?></h3>
                   <ul>
-                    <li><a target="_blank" href="http://www.youtube.com/watch?v=BPME2GHBe9s">YouTube</a></li>
-                    <li><a target="_blank" href="https://vimeo.com/46162690">Vimeo</a></li>
+                    <?php if ( $lang == "pt" ) { ?>
+                      <li><a target="_blank" href="https://www.youtube.com/watch?v=BCVkRA69THI">YouTube</a></li>
+                    <?php } ?>
+                    <?php if ( $lang == "es" ) { ?>
+                      <li><a target="_blank" href="http://www.youtube.com/watch?v=BPME2GHBe9s">YouTube</a></li>
+                      <li><a target="_blank" href="https://vimeo.com/46162690">Vimeo</a></li>
+                    <?php } ?>
                   </ul>
 
-                  <h3 style="font-size:8pt;"><?php echo _('Descargar');?></h3>
+                  <!-- <h3 style="font-size:8pt;"><?php echo _('Descargar');?></h3>
                   <ul>
                     <li><a href="/datos/pelicula/trailer/trailer-hd.mp4">HD MP4</a> <small>(1280x720 / 100MB)</small></li>
                     <li><a href="/datos/pelicula/trailer/trailer-sd.mp4">SD MP4</a> <small>(640x360 / 65.7MB)</small></li>
-                  </ul>
+                  </ul> -->
                 </div>
               </div>
 
@@ -115,7 +125,7 @@ if (!$_GET['p']) { ?>
 
 $page = $_GET['p']; ?>
 
-<body>
+<body class="<?php echo $lang; ?>">
 
 <?php  include('tpl/header.php');?>
 

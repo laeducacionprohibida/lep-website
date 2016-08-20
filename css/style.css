@@ -13,11 +13,18 @@ License: Creative Commons Attribution 3.0 http://creativecommons.org/licenses/by
 
 
 body {
-background:  #1a1a1a url(../img/cab_fondo3.png) top no-repeat;
 margin: 0pt auto;
 max-width: 1020px;
 font-family: 'Oxygen',  verdana, tahoma;
 }
+
+body.es {
+  background:  #1a1a1a url(../img/fondo.es.jpg) top no-repeat;
+}
+body.pt {
+  background:  #1a1a1a url(../img/fondo.pt.jpg) top no-repeat;
+}
+
 
 
 h1,h2,h3,h4,h5,h6 {
@@ -97,21 +104,24 @@ font-style: italic;
 }
 
 #cab_logo_reevo {
-	background: url('../img/logo-reevo.png') no-repeat;
+	/*background: url('../img/logo-reevo.png') no-repeat;*/
 	width: 323px;
 	height: 63px;
 	position: relative;
-	/* margin-right: 0; */
 	top: 64px;
 	float: right;
-	right: 49px;
+	right: 89px;
 	opacity: 0;
 	transition: opacity .25s ease-in-out;
  -moz-transition: opacity .25s ease-in-out;
  -webkit-transition: opacity .25s ease-in-out;
+ -webkit-filter: blur(20px);
+ background: white;
 }
 #cab_logo_reevo:hover {
-	opacity: 1;
+	opacity: 0.4;
+  -webkit-filter: blur(20px);
+  background: white;
 }
 
 #contenido-arriba {
@@ -168,11 +178,12 @@ z-index: 100;
 }
 
 #cab_logo {
-background: url(../img/logo.png) no-repeat;
-width: 362px;
-height:107px;
 float:left;
 margin: 2em 0 1em 4em;
+}
+
+#cab_logo img {
+width: 100%;
 }
 
 #cab_texto {

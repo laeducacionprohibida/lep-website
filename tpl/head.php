@@ -21,12 +21,12 @@
 	<link rel="stylesheet" type="text/css" media="all" href="/css/slicknav.css" />
 
   <script type='text/javascript' src='/js/jquery.js'></script>
-  <!-- <script type='text/javascript' src='/js/jquery-migrate.min.js'></script> -->
+  <!-- <script type='text/javascript' src='/js/jquery-migrate.miechon.js'></script> -->
 
   <meta property="og:site_name" content="<?php echo _('La Educación Prohibida');?>" />
   <meta property="og:title" content="<?php echo _('La Educación Prohibida');?>" />
   <meta property="og:description" content="<?php echo _('Quienes hicimos la película te pedimos que nos ayudes a seguir impulsando Reevo, la Red de Educación Alternativa...');?>" />
-  <meta property="og:image" content="<?php echo $url;?>/img/banner-fb.png" />
+  <meta property="og:image" content="<?php echo $url;?>/img/banner-fb.<?php echo $lang;?>.png" />
 
   <script src="/js/tabbedContent.js" type="text/javascript"></script>
   <script src="/js/jcarousellite_1.0.1c4.js" type="text/javascript"></script>

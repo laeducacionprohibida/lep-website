@@ -46,6 +46,14 @@ body.home #navegacion {
       margin: 2em 0;
   }
 
+	#cab_logo {
+		margin: 0pt;
+	}
+	#cab_logo img {
+		width: 95%;
+	}
+
+
 }
 
 @media (max-width: 951px) {
@@ -81,10 +89,9 @@ body.home #navegacion {
 }
 
 @media (max-width: 620px) {
-  body {
+  body.es, body.pt {
     background:  #1a1a1a url(../img/cab_fondo2.jpg) top no-repeat;
   }
-
   #cab_logo_reevo{
     display: none;
   }

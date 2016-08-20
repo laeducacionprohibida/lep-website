@@ -1,5 +1,6 @@
 <div id="cabecera">
-  <a id="cab_logo" href="/"></a>
+
+  <a id="cab_logo" href="/"><img src="/img/logo.<?php echo $lang; ?>.png" /></a>
   <a id="cab_logo_reevo" href="http://reevo.org"></a>
   <div id="caja-social">
     <a target="_blank" id="btn_twitter" class="btn_social" href="http://twitter.com/edprohibida/" title="<?php echo _('Siguenos en Twitter');?>"></a>
