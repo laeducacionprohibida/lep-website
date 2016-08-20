@@ -81,9 +81,9 @@ msgid ""
 "donar.reevo.org/form.php?donar=1\">haciendote miembro o haciendo una "
 "donación</a></b>."
 msgstr ""
-"<p>HTerminamos o filme e agora está disponível para todos, sem barreiras econômicas. Nós temos outros projetos em andamento, como <a target="
+"<p>Terminamos o filme e agora está disponível para todos, sem barreiras econômicas. Nós temos outros projetos em andamento, como <a target="
 "\"_blank\" href=\"http://reevo.org\">Reevo</a>, a maior rede de educação alternativa da América Latina. <b>Você pode apoiar-nos <a href=\"https://"
-"donar.reevo.org/form.php?donar=1\">omo um membro ou fazer uma doação</a></b>."
+"donar.reevo.org/form.php?donar=1&l=pt\">omo um membro ou fazer uma doação</a></b>."
 
 #: index.php:94
 msgid ""
@@ -140,9 +140,9 @@ msgstr ""
 #: tpl/footer.php:10
 msgid ""
 "Se permite y alienta la copia, modificación y redistribución de todos los "
-"contenidos. <a href=\"/legales.php\">Mas información..."
+"contenidos. <a href=\"/?p=legales.php\">Mas información..."
 msgstr ""
-"Nós permitimos e encorajamos a cópia, modificação e distribuição de todo o conteúdo. <a href=\"/legales.php\">Mais informação..."
+"Nós permitimos e encorajamos a cópia, modificação e distribuição de todo o conteúdo. <a href=\"/?p=legales.php\">Mais informação..."
 
 #: tpl/footer.php:15
 msgid "Producción"

@@ -143,10 +143,10 @@ msgstr ""
 #: tpl/footer.php:10
 msgid ""
 "Se permite y alienta la copia, modificación y redistribución de todos los "
-"contenidos. <a href=\"/legales.php\">Mas información..."
+"contenidos. <a href=\"/?p=legales.php\">Mas información..."
 msgstr ""
 "Se permite y alienta la copia, modificación y redistribución de todos los "
-"contenidos. <a href=\"/legales.php\">Mas información..."
+"contenidos. <a href=\"/?p=legales.php\">Mas información..."
 
 #: tpl/footer.php:15
 msgid "Producción"
