@@ -114,41 +114,41 @@ Projeto Ciudad, Arte y Educación – Instituto Popular de Cultura de Cali
 Cali – Colômbia
 
 <strong>William Rodriguez Sánchez</strong>
-Profesor de Pedagogía, Director Instituto Popular de Cultura de Cali
+Professor de Pedagogía, Diretor do Instituto Popular de Cultura de Cali
 <a href="http://www.cali.gov.co/publicaciones.php?id=44" target="_blank"> http://www.cali.gov.co/publicaciones.php?id=44</a>
 Cali – Colombia
 
 <strong>Carlos Alberto Jimenez Velez</strong>
-Profesor de Biología y Quimica
-Investigador de Neurociencia, Neuropedagogía y Lúdica.
-Autor de más de 20 libros de Neuropedagogía y Lúdica.
+Professor de Biologia e Quimica
+Pesquizador de Neurociencia, Neuropedagogía e Lúdica.
+Autor de mais de 20 livros de Neuropedagogia e Lúdica.
 <a href="http://www.ludicacolombia.com/" target="_blank"> http://www.ludicacolombia.com/</a>
 Pereira – Colombia
 
 <strong>Hernán Correa Otero</strong>
-Coordinador Proyectos Nacionales Fundación Escuela Nueva
+Coordenador de Projetos Nacionais Fundación Escuela Nueva
 <a href="http://www.escuelanueva.org/" target="_blank"> http://www.escuelanueva.org/</a>
 Bogotá – Colombia
 
 <strong>Pedro Pablo Ramirez Suarez</strong>
-Coordinador de formación y capacitación, Fundación Escuela Nueva
+Coordenador de formação e capacitação, Fundación Escuela Nueva
 <a href="http://www.escuelanueva.org/" target="_blank"> http://www.escuelanueva.org/</a>
 Bogotá – Colombia
 
 <strong>Carmen Emilia Perez Castaño</strong>
-Asesoría Proyectos Fundación Escuela Nueva
+Assessoria Projetos Fundación Escuela Nueva
 <a href="http://www.escuelanueva.org/" target="_blank"> http://www.escuelanueva.org/</a>
 Bogotá – Colombia
 
 <strong>Amanda Josefina Bravo Hernandez</strong>
-Coordinadora Nacional Programa Habilidades para la Vida
-Formación de educadores
+Coordenadora Nacional Programa Habilidades para la Vida
+Formação de educadores
 <a href="http://www.habilidadesparalavida.net" target="_blank"> http://www.habilidadesparalavida.net</a>
 Bogotá – Colombia
 
 <strong>Vicky Colbert de Arboleda</strong>
 Co-Fundadora Escuela Nueva
-Directora Fundación Escuela Nueva
+Diretora Fundación Escuela Nueva
 <a href="http://www.escuelanueva.org/" target="_blank"> http://www.escuelanueva.org/</a>
 Bogotá – Colombia
 
@@ -158,158 +158,158 @@ Educador, Seminarista, Director Mundo Montessori
 Bogotá – Colombia
 
 <strong>Diana Victoria Aguirre</strong>
-Bióloga, Pedagoga, Directora Proyecto ECOSHOW
+Bióloga, Pedagoga, Diretora Projeto ECOSHOW
 La Calera – Colombia
 
 <strong>Beatriz Cristina Gil Zuleta</strong>
-Lic. en Psicología y Pedagogía, Educadora en Ecosofia
+Bacharel em Psicologia e Pedagogia, Educadora em Ecosofia
 La Calera – Colombia
 
 
 <h3>Ecuador</h3>
 
 <strong>José María Vacacela
-</strong>Psicopedagogo, Director Comunidad Educativa Inca Samana
-Saraguro - Ecuador
+</strong>Psicopedagogo, Diretor Comunidad Educativa Inca Samana
+Saraguro - Equador
 
 <strong>María Rosa Darquea
-</strong>Presidenta Fundación Holos
-Lic. en Artes Visuales - Universidad de Cuenca
-Cuenca - Ecuador
+</strong>Presidente Fundación Holos
+Bacharel em Artes Visuais - Universidad de Cuenca
+Cuenca - Equador
 
 <strong>Patricia Edith Serrano Lofruscio
-</strong>Directora, Profesora de Bell Academy
-Psicopedagoga, Profesora de la Universidad de Azuay UDA
-Didáctica de las Matemáticas y Ciencias Naturales
-Cuenca - Ecuador
+</strong>Diretora, Professora de Bell Academy
+Psicopedagoga, Professora da Universidad de Azuay UDA
+Didática das Matemáticas e Ciencias Naturais
+Cuenca - Equador
 
 <strong>María Gabriela Albuja
-</strong>Pedagoga, Linguista Kichua-Inglés, Historiadora de la Educación
+</strong>Pedagoga, Linguista Kichua-Inglês, Historiadora da Educação
 Impulsadora de sueños, docente Comunidad Educativa Inca Samana
-Saraguro - Ecuador
+Saraguro - Equador
 
 <strong>José Antonio Solónzano
-</strong>Coordinador Académico Colegio Kilpatrick
-Valle de Tumbaco - Ecuador
+</strong>Coordenador Acadêmico Colegio Kilpatrick
+Valle de Tumbaco - Equador
 
 <strong>Carmen Pazmiró Boza
-</strong>Periodista, Madre y representante de Comunidad Educativa de Padres.
-Tambien conocida como Escuela Viajera
-Valle de Tumbaco - Ecuador
+</strong>Jornalista, Mãe e representante da Comunidade Educativa de Pais.
+Também conhecida como Escuela Viajera
+Valle de Tumbaco - Equador
 
 <strong>Patricia Chicaiza de la Cruz
-</strong>Profesora representante de Comunidad Educativa de Padres.
-Tambien conocida como Escuela Viajera
-Valle de Tumbaco - Ecuador
+</strong>Professora representante da Comunidade Educativa de Pais.
+Também conhecida como Escuela Viajera
+Valle de Tumbaco - Equador
 
 <strong>Ángela Camargo
-</strong>Pedagoga, Directora de Kinder y Primaria Colegio Pachamama
+</strong>Pedagoga, Diretora de Kinder e Primaria Colegio Pachamama
 <a href="http://www.pachamama.edu.ec/" target="_blank"> http://www.pachamama.edu.ec/</a>
-Valle de Tumbaco - Ecuador
+Valle de Tumbaco - Equador
 
 <strong>María Verónica Durán
 </strong>Docente, Poeta, Actriz
 Escuela Comunitaria
 <a href="www.escuela-comunitaria.blogspot.com" target="_blank"> www.escuela-comunitaria.blogspot.com</a>
-Valle de Tumbaco - Ecuador
+Valle de Tumbaco - Equador
 
 <strong>Raúl Vallejo
-</strong>Autor literario, Ex-Ministro de Educación de Ecuador
-Director Área de Letras de la Universidad Andina de Quito
-Quito - Ecuador
+</strong>Autor literário, Ex-Ministro de Educação do Equador
+Diretor Área de Letras da Universidad Andina de Quito
+Quito - Equador
 
 
-<h3>España</h3>
+<h3>Espanha</h3>
 
 <strong>Ana Julia Barnadas
-</strong>Coordinadora de Formación e Innovación Montessori Palau de Girona
+</strong>Coordenadora de Formação e Inovação Montessori Palau de Girona
 <a href="http://www.montessori-palau.net" target="_blank"> www.montessori-palau.net</a>
 
 <strong>Antonio Malagón Golderos
-</strong>Presidente de la Asociación de Centros Educativos Waldorf de España, Director del Centro de Formación de Pedagogía Waldorf de España
+</strong>Presidente da Associação de Centros Educativos Waldorf da Espanha, Diretor do Centro de Formação de Pedagogia Waldorf da Espanha
 <a href="http://www.colegioswaldorf.org" target="_blank"> www.colegioswaldorf.org</a>
 
 <strong>Betzabé Lillo
-</strong>Maester en Intervenciones Sociales y Educativas, Licenciada en Educación, Guia Montessori
+</strong>Maester em Intervenções Sociais e Educativas, Bacharel em Educação, Guia Montessori
 <a href="http://www.montessoricanela.es" target="_blank"> www.montessoricanela.es</a>
 
 <strong>Carles Parellada Enrich
-</strong>Maestro, Formador de formadores, Terapeuta Sistémico, Trabajo en el ICE de la Universidad Autónoma de Barcelona
+</strong>Mestre, Formador de formadores, Terapeuta Sistêmico, Trabalhou no ICE da Universidad Autónoma de Barcelona
 <a href="http://xtec.cat/crp-santcugat/pedagogiasistemica.htm" target="_blank"> http://xtec.cat/crp-santcugat/pedagogiasistemica.htm</a>
 
 <strong>Carlos Espinosa Manso
-</strong>Inspector de Escuelas en España
+</strong>Inspetor de Escolas na Espanha
 Málaga
 
 <strong>Carlos González Pérez
-</strong>Divulgador de los Nuevos Paradigmas Científicos, Autor de "Veintitrés Maestros, de corazón", 24 años enseñando adolescentes, Licenciado en Física
+</strong>Divulgador dos Novos Paradigmas Científicos, Autor de "Veintitrés Maestros, de corazón", 24 anos ensinando adolescentes, Bacharel em Física
 
 <strong>Carlos González Rodríguez
-</strong>Pediatra, Autor de varios libros sobre crianza infantil, Presidente y Fundador de Asociación Catalana Pro Lactancia Materna
+</strong>Pediatra, Autor de varios livros sobre criação infantil, Presidente e Fundador da Associação Catalã Pro Lactancia Materna
 
 <strong>Cristóbal Gutierrez
-</strong>Fundación CAI (Cuidado el Alma Infantil), Cofundador escuela libre La Caseta y el Roure.
+</strong>Fundação CAI (Cuidado el Alma Infantil), Co-fundador da escola livre La Caseta y el Roure.
 
 <strong>Helen Flix Rocamora
-</strong>Medica, Psicóloga, Terapeuta, Autora "Los padres que lloran en la almohada"
+</strong>Médica, Psicóloga, Terapeuta, Autora do livro "Los padres que lloran en la almohada"
 <a href="http://www.helenflix.es" target="_blank"> www.helenflix.es</a>
 
 <strong>Ignasi Salvatella
-</strong>Educador, Miembro fundador Adhyayana22
+</strong>Educador, Membro fundador Adhyayana22
 <a href="http://www.adhyayana22.blogspot.com" target="_blank"> www.adhyayana22.blogspot.com</a>
 
 <strong>Irene Garzozi Perez
-</strong>Madre, creativa, educadora, doctora en Bellas Artes, Docente
+</strong>Mãe, criativa, educadora, doutora em Belas Artes, Docente
 <a href="http://www.gestocreativo.com" target="_blank"> www.gestocreativo.com</a>
 
 <strong>Jordi Mateu Zorita
-</strong>Educador, Asesor de escuelas, Coordinador de la Xell
+</strong>Educador, Assessor de escolas, Coordenador daa Xell
 <a href="http://www.educaciolliure.org" target="_blank"> www.educaciolliure.org</a>
 
 <strong>Juan Duque Pere
-</strong>Coordinador del Proyecto de Escuela Libre "La Caseta"
+</strong>Coordenador do Projeto da Escola Livre "La Caseta"
 
 <strong>Koldo Aldai
-</strong>ExDocente
+</strong>Ex-Docente
 <a href="http://www.foroespiritual.org" target="_blank"> www.foroespiritual.org</a>
 
 <strong>Maria Elena Saez Melcón
-</strong>Trabajadora Social IES La Fortuna
+</strong>Trabalhadora Social IES La Fortuna
 
 <strong>Miguel Angel Alonso Gonzalez
 </strong>Docente IES La Fortuna
 
 <strong>Montserrat Ramagosa
-</strong>Especialista en Altas Capacidades
+</strong>Especialista em Altas Capacidades
 
 <strong>Raúl Baza Garcés
-</strong>Educador y terapeuta Gestalt. Formador de formadores
-Formación e Intervención en Desarrollo Emocional.
+</strong>Educador e terapeuta Gestalt. Formador de formadores
+Formação e Intervenção em Desenvolvimento Emocional.
 
 <strong>Richard Rothan Casafont (Lama)
-</strong>Lama Budista en Barcelona
+</strong>Lama Budista em Barcelona
 
 <strong>Sergi Torres
-</strong>Autor del libro "Un puente a la realidad", Impulsor de una nueva conciencia
+</strong>Autor do livro "Un puente a la realidad", Impulsor de uma nova consciencia
 
 <strong>Teresa Puyol
-</strong>Pedagogía, Facilitadora de nuevos aprendizajes y procesos de cambio
+</strong>Pedagogia, Facilitadora de novas aprendizagens e processos de mudança
 <a href="http://www.desenvolupamenthuma.com" target="_blank"> www.desenvolupamenthuma.com</a>
 
 <strong>Walter Maverino
-</strong>Escritor, Consultor en Transmutación Humana, Organizacional y Social
+</strong>Escritor, Consultor em Transmutação Humana, Organizacional e Social
 
 
 <h3>Perú</h3>
 
 <strong>Dora Maldonado
-</strong>Profesora de Inglés, especialidad en Educación Temprana e Inicial en Montessori
-Alumna de AMI - De 3 a 6 años
+</strong>Professora de Inglês, especialidade em Educação Prematura e Inicial em Montessori
+Aluna de AMI - De 3 a 6 anos
 Lima - Perú
 
 <strong>Edith Astorga Chavez
-</strong>Especialista de Educación Inicial Ugel. Nº6 Vitarte
-Impulsadora del proyecto Educación Temprana basado en Montesorri en zonas de riesgo
+</strong>Especialista em Educação Inicial Ugel. Nº6 Vitarte
+Impulsora do projeto Educação Prematura baseada em Montesorri em zonas de risco
 Lima - Perú
 
 <strong>Ivette Carrión Torres
@@ -323,12 +323,12 @@ Lima - Perú
 Lima - Perú
 
 <strong>Lucía Carmen Apaza Yanac
-</strong>Docente Coordinadora de PET Ugel. nº6 Vitarte
+</strong>Docente Coordenadora de PET Ugel. nº6 Vitarte
 Lima - Perú
 
 <strong>Lic. Rosa Taramona Aparcana
-</strong>Psicóloga Infantil - Creadora Método DIM
-Desarrollo de las Inteligencias Múltiples
+</strong>Psicóloga Infantil - Criadora do Método DIM
+Desenvolvimento das Inteligencias Múltiplas
 <a href="http://www.dejaloser.com" target="_blank"> www.dejaloser.com</a>
 Lima - Perú
 
@@ -336,19 +336,19 @@ Lima - Perú
 <h3>Uruguay</h3>
 
 <strong>Alicia Montes de Oca
-</strong>Educadora, Directora del INCRE, Docente de Ludosofía
+</strong>Educadora, Diretora do INCRE, Docente de Ludosofia
 <a href="http://www.incre.edu.uy" target="_blank"> www.incre.edu.uy</a>
 
 <strong>José Luis Fernandez
-</strong>Licenciado en Psicología, Psicólogo INCRE
+</strong>Bacharel em Psicología, Psicólogo INCRE
 <a href="http://www.incre.edu.uy" target="_blank"> www.incre.edu.uy</a>
 
 <strong>Maria Cecilia Lezama Bianchi
-</strong>Educadora, Directora Primaria INCRE
+</strong>Educadora, Diretora Primaria INCRE
 <a href="http://www.incre.edu.uy" target="_blank"> www.incre.edu.uy</a>
 
 <strong>Miguel Angel Dominguez
-</strong>Educador, Director del INCRE, Docente de Ludosofía
+</strong>Educador, Diretor do INCRE, Docente de Ludosofía
 <a href="http://www.incre.edu.uy" target="_blank"> www.incre.edu.uy</a>
 
 
