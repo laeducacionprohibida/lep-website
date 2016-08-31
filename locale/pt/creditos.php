@@ -289,8 +289,8 @@ Mãe do Juan – Maria Del Carmen Antelo<br>
 Mestre 1 – Marina Groshaus<br>
 Mestre 2 – Nancy Encinas<br>
 Mestre 3 – Mariza Veiga Lopez<br>
-Maestro 4 – Patricia Lomónaco<br>
-Maestro 5 – Ezequiel Abila<br>
+Mestre 4 – Patricia Lomónaco<br>
+Mestre 5 – Ezequiel Abila<br>
 Professor 1 – Juan Facundo Licera Merli<br>
 Professor 2 – Jorge Garibotto<br>
 Professor 3 – Adriel Defelice<br>
