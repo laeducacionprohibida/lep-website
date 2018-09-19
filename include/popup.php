@@ -33,7 +33,7 @@ jQuery(document).ready(function($){
 
     <iframe width="450" height="253" src="https://www.youtube.com/embed/_ePPqIANWkU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-    <p><a id="contenido-encuesta" href="https://donar.reevo.org" target="_blank"><?php echo _('Hazte miembro de Reevo ahora');?></a></p>
+    <p><a id="contenido-encuesta" href="https://donar.reevo.org" target="_blank"><?php echo _('Hazte miembro de Reevo');?></a></p>
 
   </div>
 
