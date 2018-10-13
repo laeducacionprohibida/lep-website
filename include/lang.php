@@ -29,7 +29,7 @@ if (!isset($params2["l"])) {
 global $idioma;
 global $lang;
 
-$lang_default = 'pt'; // Español por defecto
+$lang_default = 'es'; // Español por defecto
 if (!$_GET['l']) {
   if ($_SERVER['REQUEST_URI'] == '/') {
     header('Location: http://' . $_SERVER['SERVER_NAME']  . $_SERVER['REQUEST_URI'] . '?l=' . $lang_default);
