@@ -22,9 +22,8 @@ if (!$_GET['p']) { ?>
             <iframe width="560" height="349" src="https://www.youtube.com/embed/OTerSwwxR9Y" frameborder="0" allowfullscreen></iframe>
           <?php } ?>
           <?php if ( $lang == "es" ) { ?>
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/-1Y9OqSJKCc?rel=0" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/ZkbRR_iQ7EQ?rel=0" frameborder="0" allowfullscreen></iframe>
           <?php } ?>
-
         </div>
 
         <div class='tabbed_content'>
@@ -87,10 +86,14 @@ if (!$_GET['p']) { ?>
                   <?php echo _('<p>Puedes colaborar alojando copias de las diferentes versiones de la película en tu servidor web. Esto nos permitirá contar con mas opciones cuando alguien quiera descargar la película. <a href="/?p=contacto">Contáctanos...</a></p>');?>
                 </div>
 
-                <div class="tab-content-col">
+		      
+		      
+                <!-- <div class="tab-content-col">
                   <h3><?php echo _('Aporte económico');?></h3>
                   <?php echo _('<p>Hemos terminado la película y ya está al alcance de todo el mundo sin barreras económicas. Tenemos otros proyectos en marcha, como <a target="_blank" href="http://reevo.org">Reevo</a>, la red de educación alternativa mas grande a Iberoamérica. <b>Puedes apoyarnos <a href="https://donar.reevo.org/form.php?donar=1">haciendote miembro o haciendo una donación</a></b>.');?>
-                </div>
+                </div> -->
+
+
               </div>
             </div>
 
