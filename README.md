@@ -1,6 +1,6 @@
 # lep-website
 
-Sitio web estático de LEP.
+Sitio web estático de LEP en proceso de Transformacion.
 
 ## ToDo
 
