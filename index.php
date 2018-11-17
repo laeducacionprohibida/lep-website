@@ -64,10 +64,10 @@ if (!$_GET['p']) { ?>
                   <h3 style="font-size:8pt;"><?php echo _('Ver Online');?></h3>
                   <ul>
                     <?php if ( $lang == "pt" ) { ?>
-                      <li><a target="_blank" href="https://www.youtube.com/watch?v=BCVkRA69THI">YouTube</a></li>
+                      <li><a target="_blank" href="https://www.youtube.com/watch?v=OTerSwwxR9Y">YouTube</a></li>
                     <?php } ?>
                     <?php if ( $lang == "es" ) { ?>
-                      <li><a target="_blank" href="http://www.youtube.com/watch?v=BPME2GHBe9s">YouTube</a></li>
+                      <li><a target="_blank" href="http://www.youtube.com/watch?v=-1Y9OqSJKCc">YouTube</a></li>
                       <li><a target="_blank" href="https://vimeo.com/46162690">Vimeo</a></li>
                     <?php } ?>
                   </ul>
@@ -108,9 +108,9 @@ if (!$_GET['p']) { ?>
         <div class="linedivider"></div>
         <?php echo _('Un proyecto <a href="/?p=financiacion">financiado colectivamente</a> por 704 coproductores a través de internet.');?>
         <div class="linedivider"></div>
-        <?php echo _('Una producción de <a href="/?p=legales">distribución libre</a>, publicada originalmente en español con más de 900 proyecciones independientes</a> y más de 12.000.000 de <a href="http://youtu.be/-1Y9OqSJKCc">reproducciones</a> en la red.');?>
+        <?php echo _('Una producción de <a href="/?p=legales">distribución libre</a>, publicada originalmente en español con más de 900 proyecciones independientes</a> y más de 14.000.000 de <a href="http://youtu.be/-1Y9OqSJKCc">reproducciones</a> en la red.');?>
         <div class="linedivider"></div>
-        <?php echo _('Más que una película documental, <a href="/?p=pelicula">La Educación Prohibida</a> es un obra abierta pensada para la <a href="http://www.reevo.org/">transformación social</a>.');?>
+        <?php echo _('Más que una película documental, <a href="/?p=pelicula">La Educación Prohibida</a> es un obra abierta pensada para la transformación social.');?>
       </div>
       <!-- <a href="http://map.reevo.org" target="_blank" id="contenido-encuesta" style="visibility: ;"><p style="font-weight:bold; font-size: 150%; margin:7px;">MAPEO COLECTIVO DE EDUCACIÓN ALTERNATIVA</p>
       <p style="font-weight:light; font-size: 87%; margin: 0px">Agrega tu experiencia educativa al Mapa</p></a> -->
